@@ -1,0 +1,1114 @@
+﻿PlantCode,PlantName,GeneratorID,Technology,WinterCapacityMW,RRMWperMin,minUpHr,minDnHr
+9,Copper,1,Natural Gas Fired Combustion Turbine,65,13,1,1
+127,Oklaunion,1,Conventional Steam Coal,650,1.69,24,288
+298,Limestone,1,Conventional Steam Coal,831,2.1606,24,288
+298,Limestone,2,Conventional Steam Coal,858,2.2308,24,288
+791,Canyon,1,Conventional Hydroelectric,3,0,1,1
+791,Canyon,2,Conventional Hydroelectric,3,0,1,1
+794,Lewisville,1,Conventional Hydroelectric,2,0,1,1
+3437,Eagle Pass,1,Conventional Hydroelectric,2,0,1,1
+3437,Eagle Pass,2,Conventional Hydroelectric,2,0,1,1
+3437,Eagle Pass,3,Conventional Hydroelectric,2,0,1,1
+3439,Laredo,4,Natural Gas Fired Combustion Turbine,97.4,19.48,1,1
+3439,Laredo,5,Natural Gas Fired Combustion Turbine,94.4,18.88,1,1
+3441,Nueces Bay,7,Natural Gas Fired Combined Cycle,325,2.145,4,16
+3441,Nueces Bay,8,Natural Gas Fired Combined Cycle,165,1.089,4,16
+3441,Nueces Bay,9,Natural Gas Fired Combined Cycle,165,1.089,4,16
+3443,Victoria,5,Natural Gas Fired Combined Cycle,132,0.8712,4,16
+3443,Victoria,7,Natural Gas Fired Combined Cycle,171,1.1286,4,16
+3452,Lake Hubbard,1,Natural Gas Steam Turbine,392,2.1168,8,64
+3452,Lake Hubbard,2,Natural Gas Steam Turbine,523,2.8242,8,64
+3453,Mountain Creek,6,Natural Gas Steam Turbine,122,0.6588,8,64
+3453,Mountain Creek,7,Natural Gas Steam Turbine,118,0.6372,8,64
+3453,Mountain Creek,8,Natural Gas Steam Turbine,568,3.0672,8,64
+3456,Newman,1,Natural Gas Steam Turbine,78,0.4212,8,64
+3456,Newman,2,Natural Gas Steam Turbine,78,0.4212,8,64
+3456,Newman,3,Natural Gas Steam Turbine,98,0.5292,8,64
+3456,Newman,4,Natural Gas Fired Combined Cycle,89,0.5874,4,16
+3456,Newman,5CA1,Natural Gas Fired Combined Cycle,128,0.8448,4,16
+3456,Newman,5CT1,Natural Gas Fired Combined Cycle,72,0.4752,4,16
+3456,Newman,5CT2,Natural Gas Fired Combined Cycle,72,0.4752,4,16
+3456,Newman,CT1,Natural Gas Fired Combined Cycle,72,0.4752,4,16
+3456,Newman,CT2,Natural Gas Fired Combined Cycle,72,0.4752,4,16
+3457,Lewis Creek,1,Natural Gas Steam Turbine,253.3,1.36782,8,64
+3457,Lewis Creek,2,Natural Gas Steam Turbine,255.3,1.37862,8,64
+3459,Sabine,1,Natural Gas Steam Turbine,211.7,1.14318,8,64
+3459,Sabine,3,Natural Gas Steam Turbine,393.5,2.1249,8,64
+3459,Sabine,4,Natural Gas Steam Turbine,532.6,2.87604,8,64
+3459,Sabine,5,Natural Gas Steam Turbine,454,2.4516,8,64
+3460,Cedar Bayou,1,Natural Gas Steam Turbine,746,4.0284,8,64
+3460,Cedar Bayou,2,Natural Gas Steam Turbine,749,4.0446,8,64
+3464,Greens Bayou,73,Natural Gas Fired Combustion Turbine,54,10.8,1,1
+3464,Greens Bayou,74,Natural Gas Fired Combustion Turbine,54,10.8,1,1
+3464,Greens Bayou,81,Natural Gas Fired Combustion Turbine,54,10.8,1,1
+3464,Greens Bayou,82,Natural Gas Fired Combustion Turbine,50,10,1,1
+3464,Greens Bayou,83,Natural Gas Fired Combustion Turbine,64,12.8,1,1
+3464,Greens Bayou,84,Natural Gas Fired Combustion Turbine,54,10.8,1,1
+3469,T H Wharton,3,Natural Gas Fired Combined Cycle,104,0.6864,4,16
+3469,T H Wharton,31,Natural Gas Fired Combined Cycle,57,0.3762,4,16
+3469,T H Wharton,32,Natural Gas Fired Combined Cycle,57,0.3762,4,16
+3469,T H Wharton,33,Natural Gas Fired Combined Cycle,57,0.3762,4,16
+3469,T H Wharton,34,Natural Gas Fired Combined Cycle,57,0.3762,4,16
+3469,T H Wharton,4,Natural Gas Fired Combined Cycle,104,0.6864,4,16
+3469,T H Wharton,41,Natural Gas Fired Combined Cycle,57,0.3762,4,16
+3469,T H Wharton,42,Natural Gas Fired Combined Cycle,57,0.3762,4,16
+3469,T H Wharton,43,Natural Gas Fired Combined Cycle,57,0.3762,4,16
+3469,T H Wharton,44,Natural Gas Fired Combined Cycle,57,0.3762,4,16
+3469,T H Wharton,51,Natural Gas Fired Combustion Turbine,58,11.6,1,1
+3469,T H Wharton,52,Natural Gas Fired Combustion Turbine,58,11.6,1,1
+3469,T H Wharton,53,Natural Gas Fired Combustion Turbine,58,11.6,1,1
+3469,T H Wharton,54,Natural Gas Fired Combustion Turbine,58,11.6,1,1
+3469,T H Wharton,55,Natural Gas Fired Combustion Turbine,58,11.6,1,1
+3469,T H Wharton,56,Natural Gas Fired Combustion Turbine,58,11.6,1,1
+3469,T H Wharton,GT1,Natural Gas Fired Combustion Turbine,13,2.6,1,1
+3470,W A Parish,1,Natural Gas Steam Turbine,169,0.9126,8,64
+3470,W A Parish,2,Natural Gas Steam Turbine,169,0.9126,8,64
+3470,W A Parish,3,Natural Gas Steam Turbine,273,1.4742,8,64
+3470,W A Parish,4,Natural Gas Steam Turbine,552,2.9808,8,64
+3470,W A Parish,5,Conventional Steam Coal,664,1.7264,24,288
+3470,W A Parish,6,Conventional Steam Coal,663,1.7238,24,288
+3470,W A Parish,7,Conventional Steam Coal,577,1.5002,24,288
+3470,W A Parish,8,Conventional Steam Coal,610,1.586,24,288
+3470,W A Parish,GT1,Natural Gas Fired Combustion Turbine,13,2.6,1,1
+3476,Knox Lee,2,Natural Gas Steam Turbine,31,0.1674,8,64
+3476,Knox Lee,3,Natural Gas Steam Turbine,25,0.135,8,64
+3476,Knox Lee,5,Natural Gas Steam Turbine,348,1.8792,8,64
+3477,Lone Star,1,Natural Gas Steam Turbine,50,0.27,8,64
+3478,Wilkes,1,Natural Gas Steam Turbine,174,0.9396,8,64
+3478,Wilkes,2,Natural Gas Steam Turbine,362,1.9548,8,64
+3478,Wilkes,3,Natural Gas Steam Turbine,362,1.9548,8,64
+3482,Jones,1,Natural Gas Steam Turbine,243,1.3122,8,64
+3482,Jones,2,Natural Gas Steam Turbine,243,1.3122,8,64
+3482,Jones,3,Natural Gas Fired Combustion Turbine,183,36.6,1,1
+3482,Jones,4,Natural Gas Fired Combustion Turbine,183,36.6,1,1
+3484,Nichols,1,Natural Gas Steam Turbine,107,0.5778,8,64
+3484,Nichols,2,Natural Gas Steam Turbine,106,0.5724,8,64
+3484,Nichols,3,Natural Gas Steam Turbine,244,1.3176,8,64
+3485,Plant X,1,Natural Gas Steam Turbine,38,0.2052,8,64
+3485,Plant X,2,Natural Gas Steam Turbine,90,0.486,8,64
+3485,Plant X,3,Natural Gas Steam Turbine,93,0.5022,8,64
+3485,Plant X,4,Natural Gas Steam Turbine,190,1.026,8,64
+3490,Graham,1,Natural Gas Steam Turbine,234,1.2636,8,64
+3490,Graham,2,Natural Gas Steam Turbine,390,2.106,8,64
+3491,Handley,3,Natural Gas Steam Turbine,395,2.133,8,64
+3491,Handley,4,Natural Gas Steam Turbine,435,2.349,8,64
+3491,Handley,5,Natural Gas Steam Turbine,435,2.349,8,64
+3492,Morgan Creek,CT1,Natural Gas Fired Combustion Turbine,82,16.4,1,1
+3492,Morgan Creek,CT2,Natural Gas Fired Combustion Turbine,80,16,1,1
+3492,Morgan Creek,CT3,Natural Gas Fired Combustion Turbine,80,16,1,1
+3492,Morgan Creek,CT4,Natural Gas Fired Combustion Turbine,81,16.2,1,1
+3492,Morgan Creek,CT5,Natural Gas Fired Combustion Turbine,80,16,1,1
+3492,Morgan Creek,CT6,Natural Gas Fired Combustion Turbine,82,16.4,1,1
+3494,Permian Basin,CT1,Natural Gas Fired Combustion Turbine,79,15.8,1,1
+3494,Permian Basin,CT2,Natural Gas Fired Combustion Turbine,76,15.2,1,1
+3494,Permian Basin,CT3,Natural Gas Fired Combustion Turbine,78,15.6,1,1
+3494,Permian Basin,CT4,Natural Gas Fired Combustion Turbine,75,15,1,1
+3494,Permian Basin,CT5,Natural Gas Fired Combustion Turbine,79,15.8,1,1
+3504,Stryker Creek,D1,Petroleum Liquids,2,0,1,1
+3504,Stryker Creek,D2,Petroleum Liquids,2,0,1,1
+3504,Stryker Creek,D3,Petroleum Liquids,2,0,1,1
+3504,Stryker Creek,D4,Petroleum Liquids,2,0,1,1
+3504,Stryker Creek,D5,Petroleum Liquids,2,0,1,1
+3504,Stryker Creek,ST1,Natural Gas Steam Turbine,167,0.9018,8,64
+3504,Stryker Creek,ST2,Natural Gas Steam Turbine,502,2.7108,8,64
+3507,Trinidad (TX),6,Natural Gas Steam Turbine,235,1.269,8,64
+3507,Trinidad (TX),D1,Petroleum Liquids,2,0,1,1
+3507,Trinidad (TX),D2,Petroleum Liquids,2,0,1,1
+3548,Decker Creek,1,Natural Gas Steam Turbine,335,1.809,8,64
+3548,Decker Creek,2,Natural Gas Steam Turbine,448,2.4192,8,64
+3548,Decker Creek,GT1,Natural Gas Fired Combustion Turbine,60,12,1,1
+3548,Decker Creek,GT2,Natural Gas Fired Combustion Turbine,60,12,1,1
+3548,Decker Creek,GT3,Natural Gas Fired Combustion Turbine,60,12,1,1
+3548,Decker Creek,GT4,Natural Gas Fired Combustion Turbine,60,12,1,1
+3559,Silas Ray,10,Natural Gas Fired Combustion Turbine,48,9.6,1,1
+3559,Silas Ray,6,Natural Gas Fired Combined Cycle,20,0.132,4,16
+3559,Silas Ray,9,Natural Gas Fired Combined Cycle,52,0.3432,4,16
+3559,Silas Ray,DG-2,Petroleum Liquids,1,0,1,1
+3559,Silas Ray,DG-3a,Petroleum Liquids,1,0,1,1
+3559,Silas Ray,DG-3b,Petroleum Liquids,1,0,1,1
+3559,Silas Ray,DG-4,Petroleum Liquids,1,0,1,1
+3559,Silas Ray,DG-6a,Petroleum Liquids,1,0,1,1
+3559,Silas Ray,DG-6b,Petroleum Liquids,1,0,1,1
+3561,Bryan (TX),7,Natural Gas Fired Combustion Turbine,21,4.2,1,1
+3576,Ray Olinger,1,Natural Gas Steam Turbine,75,0.405,8,64
+3576,Ray Olinger,2,Natural Gas Steam Turbine,107,0.5778,8,64
+3576,Ray Olinger,3,Natural Gas Steam Turbine,138,0.7452,8,64
+3576,Ray Olinger,4,Natural Gas Fired Combustion Turbine,81,16.2,1,1
+3581,Abbott TP 3,1,Conventional Hydroelectric,1.4,0,1,1
+3581,Abbott TP 3,2,Conventional Hydroelectric,1.4,0,1,1
+3582,Dunlap TP 1,1,Conventional Hydroelectric,1.8,0,1,1
+3582,Dunlap TP 1,2,Conventional Hydroelectric,1.8,0,1,1
+3583,H 4,1,Conventional Hydroelectric,2.4,0,1,1
+3584,H 5,1,Conventional Hydroelectric,2.4,0,1,1
+3585,Nolte,1,Conventional Hydroelectric,1.2,0,1,1
+3585,Nolte,2,Conventional Hydroelectric,1.2,0,1,1
+3586,TP 4,1,Conventional Hydroelectric,2.4,0,1,1
+3594,Austin,1,Conventional Hydroelectric,8.2,0,1,1
+3594,Austin,2,Conventional Hydroelectric,8.8,0,1,1
+3595,Buchanan Dam (TX),1,Conventional Hydroelectric,18.3,0,1,1
+3595,Buchanan Dam (TX),2,Conventional Hydroelectric,18.3,0,1,1
+3595,Buchanan Dam (TX),3,Conventional Hydroelectric,18.3,0,1,1
+3597,Granite Shoals,1,Conventional Hydroelectric,27,0,1,1
+3597,Granite Shoals,2,Conventional Hydroelectric,27,0,1,1
+3598,Inks,1,Conventional Hydroelectric,13.8,0,1,1
+3599,Marble Falls,1,Conventional Hydroelectric,19.8,0,1,1
+3599,Marble Falls,2,Conventional Hydroelectric,19.8,0,1,1
+3600,Marshall Ford,1,Conventional Hydroelectric,36,0,1,1
+3600,Marshall Ford,2,Conventional Hydroelectric,36,0,1,1
+3600,Marshall Ford,3,Conventional Hydroelectric,36,0,1,1
+3601,Sim Gideon,1,Natural Gas Steam Turbine,140,0.756,8,64
+3601,Sim Gideon,2,Natural Gas Steam Turbine,140,0.756,8,64
+3601,Sim Gideon,3,Natural Gas Steam Turbine,340,1.836,8,64
+3602,Ty Cooke,1,Natural Gas Steam Turbine,42,0.2268,8,64
+3602,Ty Cooke,2,Natural Gas Steam Turbine,46,0.2484,8,64
+3602,Ty Cooke,GT2,Natural Gas Fired Combustion Turbine,18.5,3.7,1,1
+3602,Ty Cooke,GT3,Natural Gas Fired Combustion Turbine,18,3.6,1,1
+3604,J Robert Massengale,6A,Natural Gas Fired Combined Cycle,18,0.1188,4,16
+3604,J Robert Massengale,7,Natural Gas Fired Combined Cycle,18,0.1188,4,16
+3604,J Robert Massengale,8,Natural Gas Fired Combined Cycle,42,0.2772,4,16
+3609,Leon Creek,CGT1,Natural Gas Fired Combustion Turbine,46,9.2,1,1
+3609,Leon Creek,CGT2,Natural Gas Fired Combustion Turbine,46,9.2,1,1
+3609,Leon Creek,CGT3,Natural Gas Fired Combustion Turbine,46,9.2,1,1
+3609,Leon Creek,CGT4,Natural Gas Fired Combustion Turbine,46,9.2,1,1
+3611,O W Sommers,1,Natural Gas Steam Turbine,420,2.268,8,64
+3611,O W Sommers,2,Natural Gas Steam Turbine,410,2.214,8,64
+3612,V H Braunig,1,Natural Gas Steam Turbine,217,1.1718,8,64
+3612,V H Braunig,2,Natural Gas Steam Turbine,230,1.242,8,64
+3612,V H Braunig,3,Natural Gas Steam Turbine,412,2.2248,8,64
+3612,V H Braunig,5,Natural Gas Fired Combustion Turbine,48,9.6,1,1
+3612,V H Braunig,6,Natural Gas Fired Combustion Turbine,48,9.6,1,1
+3612,V H Braunig,7,Natural Gas Fired Combustion Turbine,48,9.6,1,1
+3612,V H Braunig,8,Natural Gas Fired Combustion Turbine,47,9.4,1,1
+3628,R W Miller,1,Natural Gas Steam Turbine,66,0.3564,8,64
+3628,R W Miller,2,Natural Gas Steam Turbine,100,0.54,8,64
+3628,R W Miller,3,Natural Gas Steam Turbine,200,1.08,8,64
+3628,R W Miller,4,Natural Gas Fired Combustion Turbine,104,20.8,1,1
+3628,R W Miller,5,Natural Gas Fired Combustion Turbine,104,20.8,1,1
+3630,Pearsall,10A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,11A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,12A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,13A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,14A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,15A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,16A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,17A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,18A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,19A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,1A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,20A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,21A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,22A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,23A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,24A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,2A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,3A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,4A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,5A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,6A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,7A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,8A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3630,Pearsall,9A,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+3631,Sam Rayburn,1,Natural Gas Fired Combustion Turbine,10.5,2.1,1,1
+3631,Sam Rayburn,10,Natural Gas Fired Combined Cycle,37,0.2442,4,16
+3631,Sam Rayburn,2,Natural Gas Fired Combustion Turbine,10.5,2.1,1,1
+3631,Sam Rayburn,4,Petroleum Liquids,0.9,0,1,1
+3631,Sam Rayburn,5,Petroleum Liquids,0.9,0,1,1
+3631,Sam Rayburn,7,Natural Gas Fired Combined Cycle,49,0.3234,4,16
+3631,Sam Rayburn,8,Natural Gas Fired Combined Cycle,49,0.3234,4,16
+3631,Sam Rayburn,9,Natural Gas Fired Combined Cycle,48,0.3168,4,16
+4195,Powerlane Plant,EP,Natural Gas Internal Combustion Engine,8.2,2.05,1,1
+4195,Powerlane Plant,EP2,Natural Gas Internal Combustion Engine,8.2,2.05,1,1
+4195,Powerlane Plant,EP3,Natural Gas Internal Combustion Engine,8.2,2.05,1,1
+4195,Powerlane Plant,ST1,Natural Gas Steam Turbine,18,0.0972,8,64
+4195,Powerlane Plant,ST2,Natural Gas Steam Turbine,23,0.1242,8,64
+4195,Powerlane Plant,ST3,Natural Gas Steam Turbine,41,0.2214,8,64
+4266,Spencer,4,Natural Gas Steam Turbine,61,0.3294,8,64
+4266,Spencer,5,Natural Gas Steam Turbine,61,0.3294,8,64
+4937,Thomas C Ferguson,CT-1,Natural Gas Fired Combined Cycle,181,1.1946,4,16
+4937,Thomas C Ferguson,CT-2,Natural Gas Fired Combined Cycle,181,1.1946,4,16
+4937,Thomas C Ferguson,STG,Natural Gas Fired Combined Cycle,194,1.2804,4,16
+4939,Barney M Davis,1,Natural Gas Steam Turbine,330,1.782,8,64
+4939,Barney M Davis,2,Natural Gas Fired Combined Cycle,325,2.145,4,16
+4939,Barney M Davis,3,Natural Gas Fired Combined Cycle,165,1.089,4,16
+4939,Barney M Davis,4,Natural Gas Fired Combined Cycle,165,1.089,4,16
+6128,Amistad Dam & Power,1,Conventional Hydroelectric,29,0,1,1
+6128,Amistad Dam & Power,2,Conventional Hydroelectric,29,0,1,1
+6139,Welsh,1,Conventional Steam Coal,528,1.3728,24,288
+6139,Welsh,3,Conventional Steam Coal,528,1.3728,24,288
+6145,Comanche Peak,1,Nuclear,1235,3.211,168,4032
+6145,Comanche Peak,2,Nuclear,1225,3.185,168,4032
+6146,Martin Lake,1,Conventional Steam Coal,815,2.119,24,288
+6146,Martin Lake,2,Conventional Steam Coal,820,2.132,24,288
+6146,Martin Lake,3,Conventional Steam Coal,820,2.132,24,288
+6178,Coleto Creek,1,Conventional Steam Coal,655,1.703,24,288
+6179,Fayette Power Project,1,Conventional Steam Coal,598,1.5548,24,288
+6179,Fayette Power Project,2,Conventional Steam Coal,598,1.5548,24,288
+6179,Fayette Power Project,3,Conventional Steam Coal,440,1.144,24,288
+6180,Oak Grove (TX),OG1,Conventional Steam Coal,855,2.223,24,288
+6180,Oak Grove (TX),OG2,Conventional Steam Coal,855,2.223,24,288
+6181,J T Deely,1,Conventional Steam Coal,420,1.092,24,288
+6181,J T Deely,2,Conventional Steam Coal,420,1.092,24,288
+6183,San Miguel,1,Conventional Steam Coal,391,1.0166,24,288
+6193,Harrington,1,Conventional Steam Coal,339,0.8814,24,288
+6193,Harrington,2,Conventional Steam Coal,339,0.8814,24,288
+6193,Harrington,3,Conventional Steam Coal,340,0.884,24,288
+6194,Tolk,1,Conventional Steam Coal,532,1.3832,24,288
+6194,Tolk,2,Conventional Steam Coal,535,1.391,24,288
+6243,Dansby,1,Natural Gas Steam Turbine,110,0.594,8,64
+6243,Dansby,2,Natural Gas Fired Combustion Turbine,48.1,9.62,1,1
+6243,Dansby,3,Natural Gas Fired Combustion Turbine,48.1,9.62,1,1
+6251,South Texas Project,1,Nuclear,1280,3.328,168,4032
+6251,South Texas Project,2,Nuclear,1280,3.328,168,4032
+6410,Falcon Dam & Power,1,Conventional Hydroelectric,10.5,0,1,1
+6410,Falcon Dam & Power,2,Conventional Hydroelectric,10,0,1,1
+6410,Falcon Dam & Power,3,Conventional Hydroelectric,10,0,1,1
+6413,Sam Rayburn Dam,1,Conventional Hydroelectric,26,0,1,1
+6413,Sam Rayburn Dam,2,Conventional Hydroelectric,26,0,1,1
+6414,Whitney,1,Conventional Hydroelectric,21,0,1,1
+6414,Whitney,2,Conventional Hydroelectric,21,0,1,1
+6416,Denison,1,Conventional Hydroelectric,40,0,1,1
+6416,Denison,2,Conventional Hydroelectric,40,0,1,1
+6595,Toledo Bend,1,Conventional Hydroelectric,40,0,1,1
+6595,Toledo Bend,2,Conventional Hydroelectric,40,0,1,1
+7030,Major Oak Power,1,Conventional Steam Coal,153,0.3978,24,288
+7030,Major Oak Power,2,Conventional Steam Coal,154,0.4004,24,288
+7097,J K Spruce,1,Conventional Steam Coal,560,1.456,24,288
+7097,J K Spruce,2,Conventional Steam Coal,785,2.041,24,288
+7131,Brandon Station,1,Natural Gas Fired Combustion Turbine,21.5,4.3,1,1
+7200,Robert D Willis,1,Conventional Hydroelectric,4,0,1,1
+7200,Robert D Willis,2,Conventional Hydroelectric,4,0,1,1
+7325,San Jacinto Steam Electric Station,1,Natural Gas Fired Combustion Turbine,81,16.2,1,1
+7325,San Jacinto Steam Electric Station,2,Natural Gas Fired Combustion Turbine,81,16.2,1,1
+7394,Gonzales Hydro Plant,1,Conventional Hydroelectric,0.3,0,1,1
+7394,Gonzales Hydro Plant,2,Conventional Hydroelectric,0.3,0,1,1
+7394,Gonzales Hydro Plant,3,Conventional Hydroelectric,0.3,0,1,1
+7512,Arthur Von Rosenberg,1,Natural Gas Fired Combined Cycle,169,1.1154,4,16
+7512,Arthur Von Rosenberg,2,Natural Gas Fired Combined Cycle,169,1.1154,4,16
+7512,Arthur Von Rosenberg,3,Natural Gas Fired Combined Cycle,190,1.254,4,16
+7900,Sand Hill,5A,Natural Gas Fired Combined Cycle,180,1.188,4,16
+7900,Sand Hill,5C,Natural Gas Fired Combined Cycle,164,1.0824,4,16
+7900,Sand Hill,SH1,Natural Gas Fired Combustion Turbine,47.3,9.46,1,1
+7900,Sand Hill,SH2,Natural Gas Fired Combustion Turbine,47.3,9.46,1,1
+7900,Sand Hill,SH3,Natural Gas Fired Combustion Turbine,47.3,9.46,1,1
+7900,Sand Hill,SH4,Natural Gas Fired Combustion Turbine,47.3,9.46,1,1
+7900,Sand Hill,SH6,Natural Gas Fired Combustion Turbine,47.3,9.46,1,1
+7900,Sand Hill,SH7,Natural Gas Fired Combustion Turbine,47.3,9.46,1,1
+7902,Pirkey,1,Conventional Steam Coal,675,1.755,24,288
+8063,DeCordova Steam Electric Station,CT1,Natural Gas Fired Combustion Turbine,88,17.6,1,1
+8063,DeCordova Steam Electric Station,CT2,Natural Gas Fired Combustion Turbine,87,17.4,1,1
+8063,DeCordova Steam Electric Station,CT3,Natural Gas Fired Combustion Turbine,86,17.2,1,1
+8063,DeCordova Steam Electric Station,CT4,Natural Gas Fired Combustion Turbine,86,17.2,1,1
+10072,Engineered Carbons Borger Cogen,GEN1,Other Gases,18.8,0,1,1
+10154,Power Island,GEN1,Natural Gas Fired Combustion Turbine,38,7.6,1,1
+10167,Seadrift Coke LP,GEN1,Petroleum Coke,7.6,0,1,1
+10184,Central Utility Plant,EG1,Natural Gas Internal Combustion Engine,4.1,1.025,1,1
+10184,Central Utility Plant,EG2,Natural Gas Internal Combustion Engine,2.4,0.6,1,1
+10184,Central Utility Plant,TG1,Natural Gas Steam Turbine,2.3,0.01242,8,64
+10187,Engineered Carbons Echo Cogeneration,GEN1,Other Gases,8.9,0,1,1
+10243,Ticona Polymers Inc,GEN5,Natural Gas Fired Combustion Turbine,38,7.6,1,1
+10261,Enterprise Products Operating,GEN3,Natural Gas Fired Combustion Turbine,2.8,0.56,1,1
+10261,Enterprise Products Operating,GEN4,Natural Gas Fired Combustion Turbine,2.8,0.56,1,1
+10261,Enterprise Products Operating,GEN5,Natural Gas Fired Combustion Turbine,2.8,0.56,1,1
+10261,Enterprise Products Operating,GEN6,Natural Gas Fired Combustion Turbine,2.8,0.56,1,1
+10261,Enterprise Products Operating,GEN7,Natural Gas Fired Combustion Turbine,2.8,0.56,1,1
+10261,Enterprise Products Operating,GEN8,Natural Gas Fired Combustion Turbine,2.8,0.56,1,1
+10298,Bayou Cogen Plant,GT1,Natural Gas Fired Combustion Turbine,93,18.6,1,1
+10298,Bayou Cogen Plant,GT2,Natural Gas Fired Combustion Turbine,93,18.6,1,1
+10298,Bayou Cogen Plant,GT3,Natural Gas Fired Combustion Turbine,93,18.6,1,1
+10298,Bayou Cogen Plant,GT4,Natural Gas Fired Combustion Turbine,93,18.6,1,1
+10418,Ascend Performance Materials Texas Inc.,GEN1,Other Gases,5.2,0,1,1
+10418,Ascend Performance Materials Texas Inc.,GEN4,Other Gases,42.5,0,1,1
+10425,International Paper - Orange,TG,Wood/Wood Waste Biomass,32.4,0,1,1
+10436,ExxonMobil Baytown Refinery,GT38,Natural Gas Fired Combustion Turbine,35,7,1,1
+10436,ExxonMobil Baytown Refinery,GT41,Natural Gas Fired Combustion Turbine,24,4.8,1,1
+10436,ExxonMobil Baytown Refinery,GT42,Natural Gas Fired Combustion Turbine,24,4.8,1,1
+10436,ExxonMobil Baytown Refinery,GT43,Natural Gas Fired Combustion Turbine,24,4.8,1,1
+10436,ExxonMobil Baytown Refinery,GT44,Natural Gas Fired Combustion Turbine,24,4.8,1,1
+10436,ExxonMobil Baytown Refinery,GT45,Natural Gas Fired Combustion Turbine,35,7,1,1
+10436,ExxonMobil Baytown Refinery,ST34,All Other,7.5,0,1,1
+10554,Formosa Utility Venture Ltd,BO3,Natural Gas Fired Combined Cycle,32,0.2112,4,16
+10554,Formosa Utility Venture Ltd,ST1,Natural Gas Fired Combined Cycle,28.5,0.1881,4,16
+10554,Formosa Utility Venture Ltd,ST2,Natural Gas Fired Combined Cycle,57.5,0.3795,4,16
+10554,Formosa Utility Venture Ltd,ST3,Natural Gas Fired Combined Cycle,51.7,0.34122,4,16
+10554,Formosa Utility Venture Ltd,TBG1,Natural Gas Fired Combined Cycle,90,0.594,4,16
+10554,Formosa Utility Venture Ltd,TBG2,Natural Gas Fired Combined Cycle,90,0.594,4,16
+10554,Formosa Utility Venture Ltd,TBG3,Natural Gas Fired Combined Cycle,90,0.594,4,16
+10554,Formosa Utility Venture Ltd,TBG4,Natural Gas Fired Combined Cycle,90,0.594,4,16
+10554,Formosa Utility Venture Ltd,TBG5,Natural Gas Fired Combined Cycle,90,0.594,4,16
+10554,Formosa Utility Venture Ltd,TBG6,Natural Gas Fired Combined Cycle,90,0.594,4,16
+10568,Port Arthur Texas Refinery,GEN1,Natural Gas Fired Combustion Turbine,37.8,7.56,1,1
+10692,ExxonMobil Baytown Turbine,GEN1,Natural Gas Fired Combustion Turbine,35,7,1,1
+10692,ExxonMobil Baytown Turbine,GEN2,Natural Gas Fired Combustion Turbine,35,7,1,1
+10692,ExxonMobil Baytown Turbine,GEN3,Natural Gas Fired Combustion Turbine,35,7,1,1
+10692,ExxonMobil Baytown Turbine,GEN4,Natural Gas Fired Combustion Turbine,110,22,1,1
+10692,ExxonMobil Baytown Turbine,GEN5,Natural Gas Fired Combustion Turbine,180.1,36.02,1,1
+10789,Sabine River Works,GEN1,Natural Gas Fired Combined Cycle,98,0.6468,4,16
+10789,Sabine River Works,GEN3,Natural Gas Fired Combined Cycle,5,0.033,4,16
+10789,Sabine River Works,GT1A,Natural Gas Fired Combined Cycle,175,1.155,4,16
+10789,Sabine River Works,GT1B,Natural Gas Fired Combined Cycle,175,1.155,4,16
+10789,Sabine River Works,ST1A,Natural Gas Fired Combined Cycle,100,0.66,4,16
+10790,Victoria Texas Plant,GEN1,Natural Gas Fired Combustion Turbine,88,17.6,1,1
+50026,Corpus Refinery,FR6,Natural Gas Fired Combustion Turbine,41,8.2,1,1
+50043,Houston Chemical Complex Battleground,GT1,Natural Gas Fired Combined Cycle,74,0.4884,4,16
+50043,Houston Chemical Complex Battleground,GT2,Natural Gas Fired Combined Cycle,74,0.4884,4,16
+50043,Houston Chemical Complex Battleground,GT3,Natural Gas Fired Combined Cycle,78,0.5148,4,16
+50043,Houston Chemical Complex Battleground,ST,Natural Gas Fired Combined Cycle,74,0.4884,4,16
+50054,Rice University,GEN1,Natural Gas Fired Combustion Turbine,2.8,0.56,1,1
+50054,Rice University,GEN2,Natural Gas Fired Combustion Turbine,3.8,0.76,1,1
+50067,Borger Plant,GEN1,Other Gases,27.5,0,1,1
+50101,WestRock (TX),GEN1,Wood/Wood Waste Biomass,9.5,0,1,1
+50101,WestRock (TX),GEN2,Wood/Wood Waste Biomass,33,0,1,1
+50101,WestRock (TX),GEN3,Wood/Wood Waste Biomass,18,0,1,1
+50109,Paris Energy Center,GEN1,Natural Gas Fired Combined Cycle,91,0.6006,4,16
+50109,Paris Energy Center,GEN2,Natural Gas Fired Combined Cycle,94,0.6204,4,16
+50109,Paris Energy Center,GEN3,Natural Gas Fired Combined Cycle,90,0.594,4,16
+50118,Hal C Weaver Power Plant,GEN10,Natural Gas Fired Combined Cycle,32.5,0.2145,4,16
+50118,Hal C Weaver Power Plant,GEN4,Natural Gas Fired Combined Cycle,7.6,0.05016,4,16
+50118,Hal C Weaver Power Plant,GEN5,Natural Gas Fired Combined Cycle,6,0.0396,4,16
+50118,Hal C Weaver Power Plant,GEN7,Natural Gas Fired Combined Cycle,27.2,0.17952,4,16
+50118,Hal C Weaver Power Plant,GEN8,Natural Gas Fired Combined Cycle,45.8,0.30228,4,16
+50118,Hal C Weaver Power Plant,GEN9,Natural Gas Fired Combined Cycle,25.7,0.16962,4,16
+50121,Valero Refinery Corpus Christi West,PRU,All Other,12,0,1,1
+50121,Valero Refinery Corpus Christi West,TG1,Petroleum Coke,26.9,0,1,1
+50121,Valero Refinery Corpus Christi West,TG2,Petroleum Coke,26.9,0,1,1
+50127,Signal Hill Generating LLC,GTA,Natural Gas Fired Combined Cycle,19.7,0.13002,4,16
+50127,Signal Hill Generating LLC,GTB,Natural Gas Fired Combined Cycle,19.7,0.13002,4,16
+50127,Signal Hill Generating LLC,GTC,Natural Gas Fired Combined Cycle,19.7,0.13002,4,16
+50127,Signal Hill Generating LLC,STD,Natural Gas Fired Combined Cycle,16,0.1056,4,16
+50137,Newgulf Cogen,GEN1,Natural Gas Fired Combustion Turbine,84,16.8,1,1
+50141,Snider Industries,WGN1,Wood/Wood Waste Biomass,5,0,1,1
+50150,Union Carbide Seadrift Cogen,GE10,Natural Gas Fired Combined Cycle,15,0.099,4,16
+50150,Union Carbide Seadrift Cogen,GE11,Natural Gas Fired Combined Cycle,38,0.2508,4,16
+50150,Union Carbide Seadrift Cogen,GEN5,Natural Gas Fired Combined Cycle,15,0.099,4,16
+50150,Union Carbide Seadrift Cogen,GEN6,Natural Gas Fired Combined Cycle,38,0.2508,4,16
+50150,Union Carbide Seadrift Cogen,GEN7,Natural Gas Fired Combined Cycle,6,0.0396,4,16
+50150,Union Carbide Seadrift Cogen,GEN8,Natural Gas Fired Combined Cycle,38,0.2508,4,16
+50150,Union Carbide Seadrift Cogen,GEN9,Natural Gas Fired Combined Cycle,15,0.099,4,16
+50150,Union Carbide Seadrift Cogen,IGT,Natural Gas Fired Combined Cycle,12,0.0792,4,16
+50153,Texas City Plant Union Carbide,STG,All Other,38,0,1,1
+50229,Texas Petrochemicals,TG2,Natural Gas Steam Turbine,35,0.189,8,64
+50241,Tenet Hospital,9541,Petroleum Liquids,2.1,0,1,1
+50241,Tenet Hospital,9542,Natural Gas Internal Combustion Engine,2.1,0.525,1,1
+50304,Shell Deer Park,GEN1,All Other,50,0,1,1
+50304,Shell Deer Park,GEN2,All Other,50,0,1,1
+50304,Shell Deer Park,GEN4,Other Gases,85,0,1,1
+50304,Shell Deer Park,GEN5,Other Gases,75,0,1,1
+50404,BP Chemicals Green Lake Plant,TG2,All Other,15,0,1,1
+50404,BP Chemicals Green Lake Plant,TG3,All Other,23.8,0,1,1
+50475,Corpus Christi,GEN1,Natural Gas Fired Combustion Turbine,41,8.2,1,1
+50569,DFW Gas Recovery,GEN1,Landfill Gas,3.2,0,1,1
+50569,DFW Gas Recovery,GEN2,Landfill Gas,3.2,0,1,1
+50569,DFW Gas Recovery,GEN3,Landfill Gas,1.6,0,1,1
+50569,DFW Gas Recovery,GEN4,Landfill Gas,1.6,0,1,1
+50569,DFW Gas Recovery,GEN5,Landfill Gas,1.6,0,1,1
+50569,DFW Gas Recovery,GEN6,Landfill Gas,1.6,0,1,1
+50625,ExxonMobil Beaumont Refinery,ETG,Other Gases,5,0,1,1
+50625,ExxonMobil Beaumont Refinery,TG22,Natural Gas Steam Turbine,25,0.135,8,64
+50625,ExxonMobil Beaumont Refinery,TG23,Natural Gas Steam Turbine,38.6,0.20844,8,64
+50625,ExxonMobil Beaumont Refinery,TG24,Natural Gas Fired Combustion Turbine,38,7.6,1,1
+50625,ExxonMobil Beaumont Refinery,TG32,Natural Gas Steam Turbine,25,0.135,8,64
+50625,ExxonMobil Beaumont Refinery,TG33,Natural Gas Steam Turbine,20,0.108,8,64
+50625,ExxonMobil Beaumont Refinery,TG34,Natural Gas Steam Turbine,30,0.162,8,64
+50625,ExxonMobil Beaumont Refinery,TG41,Natural Gas Fired Combustion Turbine,165,33,1,1
+50625,ExxonMobil Beaumont Refinery,TG42,Natural Gas Fired Combustion Turbine,165,33,1,1
+50625,ExxonMobil Beaumont Refinery,TG43,Natural Gas Fired Combustion Turbine,165,33,1,1
+50815,Optim Energy Altura Cogen LLC,GEN1,Natural Gas Fired Combined Cycle,73.5,0.4851,4,16
+50815,Optim Energy Altura Cogen LLC,GEN2,Natural Gas Fired Combined Cycle,76.6,0.50556,4,16
+50815,Optim Energy Altura Cogen LLC,GEN3,Natural Gas Fired Combined Cycle,77.1,0.50886,4,16
+50815,Optim Energy Altura Cogen LLC,GEN4,Natural Gas Fired Combined Cycle,77.8,0.51348,4,16
+50815,Optim Energy Altura Cogen LLC,GEN5,Natural Gas Fired Combined Cycle,75.3,0.49698,4,16
+50815,Optim Energy Altura Cogen LLC,GEN6,Natural Gas Fired Combined Cycle,121.7,0.80322,4,16
+50815,Optim Energy Altura Cogen LLC,GEN7,Natural Gas Fired Combined Cycle,75.2,0.49632,4,16
+50973,Motiva Enterprises Port Arthur Refinery,GN31,Natural Gas Fired Combined Cycle,8.6,0.05676,4,16
+50973,Motiva Enterprises Port Arthur Refinery,GN32,Natural Gas Fired Combined Cycle,10.7,0.07062,4,16
+50973,Motiva Enterprises Port Arthur Refinery,GN33,Natural Gas Fired Combined Cycle,22,0.1452,4,16
+50973,Motiva Enterprises Port Arthur Refinery,GN34,Natural Gas Fired Combustion Turbine,16,3.2,1,1
+50973,Motiva Enterprises Port Arthur Refinery,GN35,Natural Gas Fired Combined Cycle,38,0.2508,4,16
+50973,Motiva Enterprises Port Arthur Refinery,GN41,Natural Gas Fired Combined Cycle,46.4,0.30624,4,16
+50973,Motiva Enterprises Port Arthur Refinery,GN42,Natural Gas Fired Combined Cycle,46.4,0.30624,4,16
+50973,Motiva Enterprises Port Arthur Refinery,GN43,Natural Gas Fired Combined Cycle,46.4,0.30624,4,16
+50973,Motiva Enterprises Port Arthur Refinery,GN44,Natural Gas Fired Combined Cycle,46.4,0.30624,4,16
+52065,Houston Plant,GEN1,All Other,6.1,0,1,1
+52065,Houston Plant,GEN2,All Other,1.5,0,1,1
+52088,Texas City Power Plant,GEN1,Natural Gas Fired Combined Cycle,139,0.9174,4,16
+52088,Texas City Power Plant,GEN2,Natural Gas Fired Combined Cycle,115,0.759,4,16
+52088,Texas City Power Plant,GEN3,Natural Gas Fired Combined Cycle,115,0.759,4,16
+52088,Texas City Power Plant,GEN4,Natural Gas Fired Combined Cycle,115,0.759,4,16
+52120,Freeport Energy,G-37,Natural Gas Fired Combustion Turbine,65.9,13.18,1,1
+52120,Freeport Energy,G-61,Natural Gas Fired Combined Cycle,76.1,0.50226,4,16
+52120,Freeport Energy,G-63,Natural Gas Fired Combined Cycle,80,0.528,4,16
+52120,Freeport Energy,G-64,Natural Gas Fired Combined Cycle,35,0.231,4,16
+52120,Freeport Energy,G-65,Natural Gas Fired Combined Cycle,95.2,0.62832,4,16
+52120,Freeport Energy,G-66,Natural Gas Fired Combined Cycle,106.5,0.7029,4,16
+52120,Freeport Energy,G-67,Natural Gas Fired Combined Cycle,106.5,0.7029,4,16
+52122,Wasson CO2 Removal Plant,GEN1,Natural Gas Fired Combustion Turbine,19,3.8,1,1
+52132,Power Station 4,GEN1,Natural Gas Fired Combined Cycle,78,0.5148,4,16
+52132,Power Station 4,GEN2,Natural Gas Fired Combined Cycle,78,0.5148,4,16
+52132,Power Station 4,GEN3,Natural Gas Fired Combined Cycle,34,0.2244,4,16
+52176,C R Wing Cogen Plant,GEN1,Natural Gas Fired Combined Cycle,71,0.4686,4,16
+52176,C R Wing Cogen Plant,GEN2,Natural Gas Fired Combined Cycle,71,0.4686,4,16
+52176,C R Wing Cogen Plant,GEN3,Natural Gas Fired Combined Cycle,70,0.462,4,16
+54097,International Paper Texarkana Mill,GEN1,Wood/Wood Waste Biomass,25,0,1,1
+54097,International Paper Texarkana Mill,GEN2,Wood/Wood Waste Biomass,40,0,1,1
+54321,Goodyear Beaumont Chemical Plant,2N80,Natural Gas Fired Combustion Turbine,4.5,0.9,1,1
+54321,Goodyear Beaumont Chemical Plant,3N80,Natural Gas Steam Turbine,13.5,0.0729,8,64
+54321,Goodyear Beaumont Chemical Plant,N802,Natural Gas Fired Combustion Turbine,4.5,0.9,1,1
+54321,Goodyear Beaumont Chemical Plant,N803,Natural Gas Fired Combustion Turbine,4.5,0.9,1,1
+54321,Goodyear Beaumont Chemical Plant,N804,Natural Gas Fired Combustion Turbine,4.5,0.9,1,1
+54330,Westhollow Technology Center,1,Natural Gas Fired Combustion Turbine,3.7,0.74,1,1
+54338,Rio Grande Valley Sugar Growers,GENA,Other Waste Biomass,2.5,0,1,1
+54338,Rio Grande Valley Sugar Growers,GENB,Other Waste Biomass,2.5,0,1,1
+54338,Rio Grande Valley Sugar Growers,GENC,Other Waste Biomass,2.5,0,1,1
+54338,Rio Grande Valley Sugar Growers,GEND,Other Waste Biomass,10,0,1,1
+54338,Rio Grande Valley Sugar Growers,GENE,Petroleum Liquids,1.4,0,1,1
+54364,Works 4,L1G,Petroleum Liquids,2,0,1,1
+54364,Works 4,L1PG,Petroleum Liquids,0.9,0,1,1
+54364,Works 4,L2G,Petroleum Liquids,2,0,1,1
+54520,Village Creek Water Reclamation Facility,SD1,Natural Gas Internal Combustion Engine,0.9,0.225,1,1
+54520,Village Creek Water Reclamation Facility,SD2,Natural Gas Internal Combustion Engine,0.9,0.225,1,1
+54520,Village Creek Water Reclamation Facility,TG1,Natural Gas Fired Combustion Turbine,5.3,1.06,1,1
+54520,Village Creek Water Reclamation Facility,TG2,Other Waste Biomass,5.3,0,1,1
+54628,Phelps Dodge Refining,2607,Natural Gas Fired Combustion Turbine,3,0.6,1,1
+54628,Phelps Dodge Refining,2608,Natural Gas Fired Combustion Turbine,3,0.6,1,1
+54628,Phelps Dodge Refining,3001,Natural Gas Fired Combustion Turbine,3.8,0.76,1,1
+54628,Phelps Dodge Refining,3002,Natural Gas Fired Combustion Turbine,3.8,0.76,1,1
+54628,Phelps Dodge Refining,3003,Natural Gas Fired Combustion Turbine,3.8,0.76,1,1
+54637,JCO Oxides Olefins Plant,GCG1,Natural Gas Fired Combustion Turbine,35.5,7.1,1,1
+54637,JCO Oxides Olefins Plant,GCG2,Natural Gas Fired Combustion Turbine,35.5,7.1,1,1
+54676,Oyster Creek Unit VIII,G81,Natural Gas Fired Combined Cycle,90,0.594,4,16
+54676,Oyster Creek Unit VIII,G82,Natural Gas Fired Combined Cycle,90,0.594,4,16
+54676,Oyster Creek Unit VIII,G83,Natural Gas Fired Combined Cycle,90,0.594,4,16
+54676,Oyster Creek Unit VIII,G84,Natural Gas Fired Combined Cycle,160,1.056,4,16
+54748,Port Neches Plant,G1,Natural Gas Fired Combustion Turbine,30.5,6.1,1,1
+54817,Johnson County,GT-1,Natural Gas Fired Combined Cycle,174,1.1484,4,16
+54817,Johnson County,ST-1,Natural Gas Fired Combined Cycle,104,0.6864,4,16
+54979,Big Spring Wind Power Facility,WIND,Onshore Wind Turbine,34.3,0,1,1
+55015,Sweeny Cogen Facility,GEN1,Natural Gas Fired Combustion Turbine,126,25.2,1,1
+55015,Sweeny Cogen Facility,GEN2,Natural Gas Fired Combustion Turbine,126,25.2,1,1
+55015,Sweeny Cogen Facility,GEN3,Natural Gas Fired Combustion Turbine,126,25.2,1,1
+55015,Sweeny Cogen Facility,GEN4,Natural Gas Fired Combustion Turbine,126,25.2,1,1
+55025,Yates Gas Plant,GEN1,Natural Gas Fired Combustion Turbine,2.8,0.56,1,1
+55025,Yates Gas Plant,GEN2,Natural Gas Fired Combustion Turbine,2.8,0.56,1,1
+55047,Pasadena Cogeneration,CTG1,Natural Gas Fired Combined Cycle,175,1.155,4,16
+55047,Pasadena Cogeneration,CTG2,Natural Gas Fired Combined Cycle,185,1.221,4,16
+55047,Pasadena Cogeneration,CTG3,Natural Gas Fired Combined Cycle,185,1.221,4,16
+55047,Pasadena Cogeneration,STG1,Natural Gas Fired Combined Cycle,85,0.561,4,16
+55047,Pasadena Cogeneration,STG2,Natural Gas Fired Combined Cycle,185,1.221,4,16
+55052,Jameson Gas Processing Plant,620,Natural Gas Internal Combustion Engine,0.4,0.1,1,1
+55052,Jameson Gas Processing Plant,621,Natural Gas Internal Combustion Engine,0.4,0.1,1,1
+55052,Jameson Gas Processing Plant,622,Natural Gas Internal Combustion Engine,0.5,0.125,1,1
+55052,Jameson Gas Processing Plant,GN410,Natural Gas Internal Combustion Engine,0.5,0.125,1,1
+55053,Bridgeport Gas Processing Plant,14,Natural Gas Internal Combustion Engine,0.8,0.2,1,1
+55053,Bridgeport Gas Processing Plant,15,Natural Gas Internal Combustion Engine,0.8,0.2,1,1
+55053,Bridgeport Gas Processing Plant,16,Natural Gas Internal Combustion Engine,0.8,0.2,1,1
+55053,Bridgeport Gas Processing Plant,17,Natural Gas Internal Combustion Engine,0.8,0.2,1,1
+55053,Bridgeport Gas Processing Plant,2723,Natural Gas Internal Combustion Engine,0.8,0.2,1,1
+55053,Bridgeport Gas Processing Plant,654,Natural Gas Internal Combustion Engine,0.8,0.2,1,1
+55053,Bridgeport Gas Processing Plant,655,Natural Gas Internal Combustion Engine,0.8,0.2,1,1
+55053,Bridgeport Gas Processing Plant,656,Natural Gas Internal Combustion Engine,0.8,0.2,1,1
+55053,Bridgeport Gas Processing Plant,657,Natural Gas Internal Combustion Engine,0.8,0.2,1,1
+55053,Bridgeport Gas Processing Plant,658,Natural Gas Internal Combustion Engine,0.8,0.2,1,1
+55053,Bridgeport Gas Processing Plant,666,Natural Gas Internal Combustion Engine,0.8,0.2,1,1
+55053,Bridgeport Gas Processing Plant,667,Natural Gas Internal Combustion Engine,0.8,0.2,1,1
+55053,Bridgeport Gas Processing Plant,671,Natural Gas Internal Combustion Engine,0.8,0.2,1,1
+55062,Tenaska Frontier Generation Station,GTG1,Natural Gas Fired Combined Cycle,177,1.1682,4,16
+55062,Tenaska Frontier Generation Station,GTG2,Natural Gas Fired Combined Cycle,177,1.1682,4,16
+55062,Tenaska Frontier Generation Station,GTG3,Natural Gas Fired Combined Cycle,177,1.1682,4,16
+55062,Tenaska Frontier Generation Station,STG1,Natural Gas Fired Combined Cycle,395,2.607,4,16
+55064,Black Hawk Station,UNT1,Natural Gas Fired Combustion Turbine,126.9,25.38,1,1
+55064,Black Hawk Station,UNT2B,Natural Gas Fired Combustion Turbine,117,23.4,1,1
+55065,Mustang Station,GEN1,Natural Gas Fired Combined Cycle,154,1.0164,4,16
+55065,Mustang Station,GEN2,Natural Gas Fired Combined Cycle,153,1.0098,4,16
+55065,Mustang Station,GEN3,Natural Gas Fired Combined Cycle,157,1.0362,4,16
+55086,Gregory Power Plant,GT1A,Natural Gas Fired Combined Cycle,162,1.0692,4,16
+55086,Gregory Power Plant,GT1B,Natural Gas Fired Combined Cycle,162,1.0692,4,16
+55086,Gregory Power Plant,STG,Natural Gas Fired Combined Cycle,87,0.5742,4,16
+55091,Midlothian Energy Facility,STK1,Natural Gas Fired Combined Cycle,260,1.716,4,16
+55091,Midlothian Energy Facility,STK2,Natural Gas Fired Combined Cycle,260,1.716,4,16
+55091,Midlothian Energy Facility,STK3,Natural Gas Fired Combined Cycle,260,1.716,4,16
+55091,Midlothian Energy Facility,STK4,Natural Gas Fired Combined Cycle,259,1.7094,4,16
+55091,Midlothian Energy Facility,STK5,Natural Gas Fired Combined Cycle,279,1.8414,4,16
+55091,Midlothian Energy Facility,STK6,Natural Gas Fired Combined Cycle,284,1.8744,4,16
+55097,Lamar Power Project,CTG1,Natural Gas Fired Combined Cycle,186,1.2276,4,16
+55097,Lamar Power Project,CTG2,Natural Gas Fired Combined Cycle,178,1.1748,4,16
+55097,Lamar Power Project,CTG3,Natural Gas Fired Combined Cycle,178,1.1748,4,16
+55097,Lamar Power Project,CTG4,Natural Gas Fired Combined Cycle,186,1.2276,4,16
+55097,Lamar Power Project,STG1,Natural Gas Fired Combined Cycle,204,1.3464,4,16
+55097,Lamar Power Project,STG2,Natural Gas Fired Combined Cycle,204,1.3464,4,16
+55104,Sabine Cogen,CTG1,Natural Gas Fired Combined Cycle,35.3,0.23298,4,16
+55104,Sabine Cogen,CTG2,Natural Gas Fired Combined Cycle,35.5,0.2343,4,16
+55104,Sabine Cogen,STG,Natural Gas Fired Combined Cycle,20,0.132,4,16
+55122,NAFTA Region Olefins Complex Cogen Fac,UN1,Natural Gas Fired Combustion Turbine,40,8,1,1
+55122,NAFTA Region Olefins Complex Cogen Fac,UN2,Natural Gas Fired Combustion Turbine,40,8,1,1
+55123,Magic Valley Generating Station,CTG1,Natural Gas Fired Combined Cycle,232,1.5312,4,16
+55123,Magic Valley Generating Station,CTG2,Natural Gas Fired Combined Cycle,232,1.5312,4,16
+55123,Magic Valley Generating Station,STG,Natural Gas Fired Combined Cycle,253,1.6698,4,16
+55132,Tenaska Gateway Generating Station,GTG1,Natural Gas Fired Combined Cycle,167,1.1022,4,16
+55132,Tenaska Gateway Generating Station,GTG2,Natural Gas Fired Combined Cycle,169,1.1154,4,16
+55132,Tenaska Gateway Generating Station,GTG3,Natural Gas Fired Combined Cycle,167,1.1022,4,16
+55132,Tenaska Gateway Generating Station,STG1,Natural Gas Fired Combined Cycle,402,2.6532,4,16
+55137,Rio Nogales Power Project,CTG1,Natural Gas Fired Combined Cycle,195,1.287,4,16
+55137,Rio Nogales Power Project,CTG2,Natural Gas Fired Combined Cycle,175,1.155,4,16
+55137,Rio Nogales Power Project,CTG3,Natural Gas Fired Combined Cycle,175,1.155,4,16
+55137,Rio Nogales Power Project,STG1,Natural Gas Fired Combined Cycle,323,2.1318,4,16
+55139,Wolf Hollow I LP,CTG1,Natural Gas Fired Combined Cycle,249,1.6434,4,16
+55139,Wolf Hollow I LP,CTG2,Natural Gas Fired Combined Cycle,249,1.6434,4,16
+55139,Wolf Hollow I LP,ST,Natural Gas Fired Combined Cycle,293,1.9338,4,16
+55144,Hays Energy Project,U1,Natural Gas Fired Combined Cycle,239,1.5774,4,16
+55144,Hays Energy Project,U2,Natural Gas Fired Combined Cycle,240,1.584,4,16
+55144,Hays Energy Project,U3,Natural Gas Fired Combined Cycle,242,1.5972,4,16
+55144,Hays Energy Project,U4,Natural Gas Fired Combined Cycle,243,1.6038,4,16
+55153,Guadalupe Generating Station,CTG1,Natural Gas Fired Combined Cycle,167,1.1022,4,16
+55153,Guadalupe Generating Station,CTG2,Natural Gas Fired Combined Cycle,167,1.1022,4,16
+55153,Guadalupe Generating Station,CTG3,Natural Gas Fired Combined Cycle,167,1.1022,4,16
+55153,Guadalupe Generating Station,CTG4,Natural Gas Fired Combined Cycle,167,1.1022,4,16
+55153,Guadalupe Generating Station,STG1,Natural Gas Fired Combined Cycle,203,1.3398,4,16
+55153,Guadalupe Generating Station,STG2,Natural Gas Fired Combined Cycle,203,1.3398,4,16
+55154,Lost Pines 1 Power Project,CTA,Natural Gas Fired Combined Cycle,178,1.1748,4,16
+55154,Lost Pines 1 Power Project,CTB,Natural Gas Fired Combined Cycle,178,1.1748,4,16
+55154,Lost Pines 1 Power Project,ST,Natural Gas Fired Combined Cycle,184,1.2144,4,16
+55168,Bastrop Energy Center,0001,Natural Gas Fired Combined Cycle,164,1.0824,4,16
+55168,Bastrop Energy Center,0002,Natural Gas Fired Combined Cycle,164,1.0824,4,16
+55168,Bastrop Energy Center,0003,Natural Gas Fired Combined Cycle,221,1.4586,4,16
+55172,Bosque County Peaking,GT-1,Natural Gas Fired Combined Cycle,173,1.1418,4,16
+55172,Bosque County Peaking,GT-2,Natural Gas Fired Combined Cycle,173,1.1418,4,16
+55172,Bosque County Peaking,GT-3,Natural Gas Fired Combined Cycle,170,1.122,4,16
+55172,Bosque County Peaking,ST-4,Natural Gas Fired Combined Cycle,88,0.5808,4,16
+55172,Bosque County Peaking,ST-5,Natural Gas Fired Combined Cycle,220,1.452,4,16
+55176,Eastman Cogeneration Facility,GEN1,Natural Gas Fired Combined Cycle,168.3,1.11078,4,16
+55176,Eastman Cogeneration Facility,GEN2,Natural Gas Fired Combined Cycle,159.8,1.05468,4,16
+55176,Eastman Cogeneration Facility,GEN3,Natural Gas Fired Combined Cycle,120,0.792,4,16
+55187,Channelview Cogeneration Plant,GT1,Natural Gas Fired Combined Cycle,177,1.1682,4,16
+55187,Channelview Cogeneration Plant,GT2,Natural Gas Fired Combined Cycle,185,1.221,4,16
+55187,Channelview Cogeneration Plant,GT3,Natural Gas Fired Combined Cycle,172,1.1352,4,16
+55187,Channelview Cogeneration Plant,GT4,Natural Gas Fired Combined Cycle,177,1.1682,4,16
+55187,Channelview Cogeneration Plant,ST1,Natural Gas Fired Combined Cycle,139,0.9174,4,16
+55206,Corpus Christi Energy Center,CT1,Natural Gas Fired Combined Cycle,160,1.056,4,16
+55206,Corpus Christi Energy Center,CT2,Natural Gas Fired Combined Cycle,160,1.056,4,16
+55206,Corpus Christi Energy Center,ST1,Natural Gas Fired Combined Cycle,165,1.089,4,16
+55215,Odessa-Ector Power Plant,CTG1,Natural Gas Fired Combined Cycle,187,1.2342,4,16
+55215,Odessa-Ector Power Plant,CTG2,Natural Gas Fired Combined Cycle,180.9,1.19394,4,16
+55215,Odessa-Ector Power Plant,CTG3,Natural Gas Fired Combined Cycle,154,1.0164,4,16
+55215,Odessa-Ector Power Plant,CTG4,Natural Gas Fired Combined Cycle,152.3,1.00518,4,16
+55215,Odessa-Ector Power Plant,STG1,Natural Gas Fired Combined Cycle,217,1.4322,4,16
+55215,Odessa-Ector Power Plant,STG2,Natural Gas Fired Combined Cycle,212,1.3992,4,16
+55223,Ennis Power Company LLC,GT1,Natural Gas Fired Combined Cycle,267.9,1.76814,4,16
+55223,Ennis Power Company LLC,ST1,Natural Gas Fired Combined Cycle,125,0.825,4,16
+55226,Freestone Energy Center,GT1,Natural Gas Fired Combined Cycle,165,1.089,4,16
+55226,Freestone Energy Center,GT2,Natural Gas Fired Combined Cycle,165,1.089,4,16
+55226,Freestone Energy Center,GT3,Natural Gas Fired Combined Cycle,165,1.089,4,16
+55226,Freestone Energy Center,GT4,Natural Gas Fired Combined Cycle,165,1.089,4,16
+55226,Freestone Energy Center,ST3,Natural Gas Fired Combined Cycle,184.6,1.21836,4,16
+55226,Freestone Energy Center,ST6,Natural Gas Fired Combined Cycle,184.6,1.21836,4,16
+55230,Jack County,CT1,Natural Gas Fired Combined Cycle,170,1.122,4,16
+55230,Jack County,CT2,Natural Gas Fired Combined Cycle,170,1.122,4,16
+55230,Jack County,CT3,Natural Gas Fired Combined Cycle,170,1.122,4,16
+55230,Jack County,CT4,Natural Gas Fired Combined Cycle,170,1.122,4,16
+55230,Jack County,ST1,Natural Gas Fired Combined Cycle,300,1.98,4,16
+55230,Jack County,ST2,Natural Gas Fired Combined Cycle,300,1.98,4,16
+55299,Channel Energy Center LLC,CTG1,Natural Gas Fired Combined Cycle,210,1.386,4,16
+55299,Channel Energy Center LLC,CTG2,Natural Gas Fired Combined Cycle,210,1.386,4,16
+55299,Channel Energy Center LLC,CTG3,Natural Gas Fired Combined Cycle,189,1.2474,4,16
+55299,Channel Energy Center LLC,ST-1,Natural Gas Fired Combined Cycle,215,1.419,4,16
+55309,Air Products Port Arthur,GEN 5,Natural Gas Fired Combustion Turbine,32.8,6.56,1,1
+55309,Air Products Port Arthur,GEN1,Natural Gas Fired Combustion Turbine,37.3,7.46,1,1
+55309,Air Products Port Arthur,GEN3,Natural Gas Steam Turbine,20.5,0.1107,8,64
+55309,Air Products Port Arthur,GEN4,Natural Gas Fired Combustion Turbine,84.2,16.84,1,1
+55311,BASF Freeport Works,GEN1,Natural Gas Fired Combustion Turbine,85,17,1,1
+55311,BASF Freeport Works,GEN2,All Other,11.7,0,1,1
+55313,Ingleside Cogeneration,CTG1,Natural Gas Fired Combined Cycle,179,1.1814,4,16
+55313,Ingleside Cogeneration,CTG2,Natural Gas Fired Combined Cycle,179,1.1814,4,16
+55313,Ingleside Cogeneration,STG,Other Gases,150,0,1,1
+55320,Wise County Power LLC,GT1,Natural Gas Fired Combined Cycle,242,1.5972,4,16
+55320,Wise County Power LLC,GT2,Natural Gas Fired Combined Cycle,242,1.5972,4,16
+55320,Wise County Power LLC,ST1,Natural Gas Fired Combined Cycle,250,1.65,4,16
+55327,Baytown Energy Center,CTG1,Natural Gas Fired Combined Cycle,190,1.254,4,16
+55327,Baytown Energy Center,CTG2,Natural Gas Fired Combined Cycle,190,1.254,4,16
+55327,Baytown Energy Center,CTG3,Natural Gas Fired Combined Cycle,190,1.254,4,16
+55327,Baytown Energy Center,STG1,Natural Gas Fired Combined Cycle,275,1.815,4,16
+55357,Jack Fusco Energy Center,CTG1,Natural Gas Fired Combined Cycle,182,1.2012,4,16
+55357,Jack Fusco Energy Center,CTG2,Natural Gas Fired Combined Cycle,182,1.2012,4,16
+55357,Jack Fusco Energy Center,STG1,Natural Gas Fired Combined Cycle,230,1.518,4,16
+55358,Cottonwood Energy Project,CT1,Natural Gas Fired Combined Cycle,169.3,1.11738,4,16
+55358,Cottonwood Energy Project,CT2,Natural Gas Fired Combined Cycle,169.3,1.11738,4,16
+55358,Cottonwood Energy Project,CT3,Natural Gas Fired Combined Cycle,169.3,1.11738,4,16
+55358,Cottonwood Energy Project,CT4,Natural Gas Fired Combined Cycle,169.3,1.11738,4,16
+55358,Cottonwood Energy Project,ST1,Natural Gas Fired Combined Cycle,135.7,0.89562,4,16
+55358,Cottonwood Energy Project,ST2,Natural Gas Fired Combined Cycle,135.7,0.89562,4,16
+55358,Cottonwood Energy Project,ST3,Natural Gas Fired Combined Cycle,135.7,0.89562,4,16
+55358,Cottonwood Energy Project,ST4,Natural Gas Fired Combined Cycle,135.7,0.89562,4,16
+55365,Exelon LaPorte Generating Station,GT1,Natural Gas Fired Combustion Turbine,45,9,1,1
+55365,Exelon LaPorte Generating Station,GT2,Natural Gas Fired Combustion Turbine,45,9,1,1
+55365,Exelon LaPorte Generating Station,GT3,Natural Gas Fired Combustion Turbine,45,9,1,1
+55365,Exelon LaPorte Generating Station,GT4,Natural Gas Fired Combustion Turbine,45,9,1,1
+55390,State Farm Insur Support Center Central,2A,Petroleum Liquids,1.8,0,1,1
+55390,State Farm Insur Support Center Central,2B,Petroleum Liquids,1.8,0,1,1
+55390,State Farm Insur Support Center Central,3A,Petroleum Liquids,1.8,0,1,1
+55390,State Farm Insur Support Center Central,3B,Petroleum Liquids,1.8,0,1,1
+55390,State Farm Insur Support Center Central,4A,Petroleum Liquids,1.8,0,1,1
+55390,State Farm Insur Support Center Central,4B,Petroleum Liquids,1.8,0,1,1
+55464,Deer Park Energy Center,CTG1,Natural Gas Fired Combined Cycle,184.2,1.21572,4,16
+55464,Deer Park Energy Center,CTG2,Natural Gas Fired Combined Cycle,184.2,1.21572,4,16
+55464,Deer Park Energy Center,CTG3,Natural Gas Fired Combined Cycle,184.2,1.21572,4,16
+55464,Deer Park Energy Center,CTG4,Natural Gas Fired Combined Cycle,184.2,1.21572,4,16
+55464,Deer Park Energy Center,CTG6,Natural Gas Fired Combined Cycle,169.2,1.11672,4,16
+55464,Deer Park Energy Center,STG1,Natural Gas Fired Combined Cycle,282,1.8612,4,16
+55470,Green Power 2,ST1,Natural Gas Fired Combined Cycle,75,0.495,4,16
+55470,Green Power 2,ST805,Natural Gas Fired Combined Cycle,75,0.495,4,16
+55470,Green Power 2,TR1,Natural Gas Fired Combined Cycle,165,1.089,4,16
+55470,Green Power 2,TR2,Natural Gas Fired Combined Cycle,165,1.089,4,16
+55470,Green Power 2,TR3,Natural Gas Fired Combined Cycle,165,1.089,4,16
+55480,Forney Energy Center,ST1,Natural Gas Fired Combined Cycle,418,2.7588,4,16
+55480,Forney Energy Center,ST2,Natural Gas Fired Combined Cycle,418,2.7588,4,16
+55480,Forney Energy Center,U1,Natural Gas Fired Combined Cycle,195,1.287,4,16
+55480,Forney Energy Center,U2,Natural Gas Fired Combined Cycle,185,1.221,4,16
+55480,Forney Energy Center,U3,Natural Gas Fired Combined Cycle,185,1.221,4,16
+55480,Forney Energy Center,U4,Natural Gas Fired Combined Cycle,195,1.287,4,16
+55480,Forney Energy Center,U5,Natural Gas Fired Combined Cycle,185,1.221,4,16
+55480,Forney Energy Center,U6,Natural Gas Fired Combined Cycle,185,1.221,4,16
+55545,Hidalgo Energy Center,CTG1,Natural Gas Fired Combined Cycle,168,1.1088,4,16
+55545,Hidalgo Energy Center,CTG2,Natural Gas Fired Combined Cycle,168,1.1088,4,16
+55545,Hidalgo Energy Center,STG1,Natural Gas Fired Combined Cycle,182,1.2012,4,16
+55556,Security,GEN5,Landfill Gas,1.7,0,1,1
+55556,Security,UNT2,Landfill Gas,1.7,0,1,1
+55579,Llano Estacado Wind Ranch,EXIS,Onshore Wind Turbine,80,0,1,1
+55581,King Mountain Wind Ranch 1,EXIS,Onshore Wind Turbine,278,0,1,1
+55664,Harrison County Power Project,GT-1,Natural Gas Fired Combined Cycle,166.6,1.09956,4,16
+55664,Harrison County Power Project,GT-2,Natural Gas Fired Combined Cycle,166.6,1.09956,4,16
+55664,Harrison County Power Project,ST-1,Natural Gas Fired Combined Cycle,225.4,1.48764,4,16
+55708,Nacogdoches Power,STG4,Wood/Wood Waste Biomass,100,0,1,1
+55747,NWP Indian Mesa Wind Farm,NWP2,Onshore Wind Turbine,82.5,0,1,1
+55795,Woodward Mountain II,01,Onshore Wind Turbine,78,0,1,1
+55796,Woodward Mountain I,01,Onshore Wind Turbine,82,0,1,1
+55968,Trent Wind Farm LP,WTG1,Onshore Wind Turbine,152,0,1,1
+55992,Desert Sky,1,Onshore Wind Turbine,167.7,0,1,1
+56111,Brazos Wind Farm,GEN1,Onshore Wind Turbine,160,0,1,1
+56113,Tessman Road,1,Landfill Gas,1.4,0,1,1
+56113,Tessman Road,2,Landfill Gas,1.4,0,1,1
+56113,Tessman Road,3,Landfill Gas,1.4,0,1,1
+56113,Tessman Road,4,Landfill Gas,1.4,0,1,1
+56113,Tessman Road,5,Landfill Gas,1.4,0,1,1
+56113,Tessman Road,6,Landfill Gas,1.4,0,1,1
+56113,Tessman Road,7,Landfill Gas,1.4,0,1,1
+56152,Freeport Energy Center,CTG1,Natural Gas Fired Combined Cycle,188.7,1.24542,4,16
+56152,Freeport Energy Center,STG1,Natural Gas Fired Combined Cycle,70,0.462,4,16
+56211,Sweetwater Wind 1 LLC,SW1,Onshore Wind Turbine,37.5,0,1,1
+56212,Sweetwater Wind 2 LLC,SW2,Onshore Wind Turbine,98.8,0,1,1
+56225,Aeolus Wind Facility,V90,Onshore Wind Turbine,3,0,1,1
+56233,EG178 Facility,CT02,Natural Gas Fired Combined Cycle,45,0.297,4,16
+56233,EG178 Facility,CTG1,Natural Gas Fired Combined Cycle,45,0.297,4,16
+56233,EG178 Facility,STG,Natural Gas Fired Combined Cycle,16,0.1056,4,16
+56240,Buffalo Gap Wind Farm,1,Onshore Wind Turbine,120.6,0,1,1
+56270,Callahan Divide Wind Energy Center,1,Onshore Wind Turbine,114,0,1,1
+56291,Horse Hollow Wind Energy Center,1,Onshore Wind Turbine,213,0,1,1
+56291,Horse Hollow Wind Energy Center,2,Onshore Wind Turbine,223.5,0,1,1
+56291,Horse Hollow Wind Energy Center,3,Onshore Wind Turbine,299,0,1,1
+56311,Sweetwater Wind 3 LLC,SW3,Onshore Wind Turbine,135,0,1,1
+56326,Mustang Station Unit 4,GEN1,Natural Gas Fired Combustion Turbine,161.5,32.3,1,1
+56326,Mustang Station Unit 4,GEN2,Natural Gas Fired Combustion Turbine,171.1,34.22,1,1
+56326,Mustang Station Unit 4,GEN3,Natural Gas Fired Combustion Turbine,165.5,33.1,1,1
+56337,Sweetwater Wind 4 LLC,SW4,Onshore Wind Turbine,241,0,1,1
+56349,Quail Run Energy Center,CT1A,Natural Gas Fired Combined Cycle,84,0.5544,4,16
+56349,Quail Run Energy Center,CT1B,Natural Gas Fired Combined Cycle,84,0.5544,4,16
+56349,Quail Run Energy Center,CT2A,Natural Gas Fired Combined Cycle,84,0.5544,4,16
+56349,Quail Run Energy Center,CT2B,Natural Gas Fired Combined Cycle,84,0.5544,4,16
+56349,Quail Run Energy Center,ST1,Natural Gas Fired Combined Cycle,98.1,0.64746,4,16
+56349,Quail Run Energy Center,ST2,Natural Gas Fired Combined Cycle,98.1,0.64746,4,16
+56350,Colorado Bend Energy Center,CT1A,Natural Gas Fired Combined Cycle,75,0.495,4,16
+56350,Colorado Bend Energy Center,CT1B,Natural Gas Fired Combined Cycle,75,0.495,4,16
+56350,Colorado Bend Energy Center,CT2A,Natural Gas Fired Combined Cycle,75,0.495,4,16
+56350,Colorado Bend Energy Center,CT2B,Natural Gas Fired Combined Cycle,75,0.495,4,16
+56350,Colorado Bend Energy Center,ST1,Natural Gas Fired Combined Cycle,103,0.6798,4,16
+56350,Colorado Bend Energy Center,ST2,Natural Gas Fired Combined Cycle,103,0.6798,4,16
+56372,Sweetwater Wind 5,SW5,Onshore Wind Turbine,80.5,0,1,1
+56374,Robert Mueller Energy Center,CT1,Natural Gas Fired Combustion Turbine,4.6,0.92,1,1
+56374,Robert Mueller Energy Center,DG1,Petroleum Liquids,1.5,0,1,1
+56394,Forest Creek Wind Farm LLC,1,Onshore Wind Turbine,124.2,0,1,1
+56395,Mesquite Wind Power LLC,1,Onshore Wind Turbine,200,0,1,1
+56432,Wildorado Wind LLC,1,Onshore Wind Turbine,161,0,1,1
+56457,Post Wind Farm LP,1,Onshore Wind Turbine,84,0,1,1
+56479,Sand Bluff Wind Farm,2,Onshore Wind Turbine,90,0,1,1
+56483,Post Oak Wind LLC,1,Onshore Wind Turbine,200,0,1,1
+56484,Buffalo Gap 2 Wind Farm,1,Onshore Wind Turbine,232.5,0,1,1
+56506,Scurry County Wind LP,SCW,Onshore Wind Turbine,130.5,0,1,1
+56524,Austin Gas Recovery,GEN1,Landfill Gas,1.6,0,1,1
+56524,Austin Gas Recovery,GEN2,Landfill Gas,1.6,0,1,1
+56524,Austin Gas Recovery,GEN3,Landfill Gas,1.6,0,1,1
+56524,Austin Gas Recovery,GEN4,Landfill Gas,1.6,0,1,1
+56528,Skyline Gas Recovery,GEN1,Landfill Gas,1.6,0,1,1
+56528,Skyline Gas Recovery,GEN2,Landfill Gas,1.6,0,1,1
+56528,Skyline Gas Recovery,GEN3,Landfill Gas,1.6,0,1,1
+56528,Skyline Gas Recovery,GEN4,Landfill Gas,1.6,0,1,1
+56560,Porterhouse Wind (4) LLC,JDW4,Onshore Wind Turbine,79.8,0,1,1
+56561,Filet Wind (5) LLC,JDW5,Onshore Wind Turbine,10,0,1,1
+56562,Tenderloin Wind (6) LLC,JDW6,Onshore Wind Turbine,10,0,1,1
+56592,Champion Wind Farm LLC,CH1,Onshore Wind Turbine,126.5,0,1,1
+56593,Roscoe Wind Farm LLC,RO1,Onshore Wind Turbine,209,0,1,1
+56602,Snyder Wind Farm,SNY1,Onshore Wind Turbine,63,0,1,1
+56603,San Jacinto County Peaking Facility,SJC1,Natural Gas Fired Combustion Turbine,85,17,1,1
+56603,San Jacinto County Peaking Facility,SJC2,Natural Gas Fired Combustion Turbine,85,17,1,1
+56604,Hardin County Peaking Facility,HC1,Natural Gas Fired Combustion Turbine,86,17.2,1,1
+56604,Hardin County Peaking Facility,HC2,Natural Gas Fired Combustion Turbine,86,17.2,1,1
+56611,Sandy Creek Energy Station,S01,Conventional Steam Coal,932.6,2.42476,24,288
+56638,Buffalo Gap 3 Wind Farm,GEN1,Onshore Wind Turbine,170.2,0,1,1
+56644,Stanton Wind Energy LLC,1,Onshore Wind Turbine,120,0,1,1
+56648,Majestic 1 Wind Farm,1,Onshore Wind Turbine,79.5,0,1,1
+56649,South Trent Wind Farm,1,Onshore Wind Turbine,101.2,0,1,1
+56661,Pattern Gulf Wind,1,Onshore Wind Turbine,283.2,0,1,1
+56673,Whirlwind Energy Center,WEC,Onshore Wind Turbine,57,0,1,1
+56674,Winchester Power Park,CGT1,Natural Gas Fired Combustion Turbine,46,9.2,1,1
+56674,Winchester Power Park,CGT2,Natural Gas Fired Combustion Turbine,46,9.2,1,1
+56674,Winchester Power Park,CGT3,Natural Gas Fired Combustion Turbine,46,9.2,1,1
+56674,Winchester Power Park,CGT4,Natural Gas Fired Combustion Turbine,46,9.2,1,1
+56708,CFB Power Plant,G2101,Natural Gas Steam Turbine,143.1,0.77274,8,64
+56708,CFB Power Plant,G2201,Natural Gas Steam Turbine,143.1,0.77274,8,64
+56754,Goat Wind LP,1,Onshore Wind Turbine,80,0,1,1
+56754,Goat Wind LP,2,Onshore Wind Turbine,69.6,0,1,1
+56763,Capricorn Ridge Wind LLC,1,Onshore Wind Turbine,149.5,0,1,1
+56763,Capricorn Ridge Wind LLC,2,Onshore Wind Turbine,214.5,0,1,1
+56763,Capricorn Ridge Wind LLC,3,Onshore Wind Turbine,186,0,1,1
+56763,Capricorn Ridge Wind LLC,4,Onshore Wind Turbine,112.5,0,1,1
+56771,Silver Star I Wind Power Project,1,Onshore Wind Turbine,60,0,1,1
+56773,McAdoo Wind Energy LLC,1,Onshore Wind Turbine,150,0,1,1
+56774,Turkey Track Wind Energy LLC,1,Onshore Wind Turbine,169.5,0,1,1
+56775,Scurry County Wind II,1,Onshore Wind Turbine,120,0,1,1
+56776,Gunsight Mountain Wind Energy LLC,1,Onshore Wind Turbine,120,0,1,1
+56779,Sherbino I Wind Farm,1,Onshore Wind Turbine,150,0,1,1
+56783,Elbow Creek Wind Project LLC,1,Onshore Wind Turbine,121.9,0,1,1
+56795,Penascal Wind Power LLC,1,Onshore Wind Turbine,201.6,0,1,1
+56806,Cedar Bayou 4,4,Natural Gas Fired Combined Cycle,185,1.221,4,16
+56806,Cedar Bayou 4,41,Natural Gas Fired Combined Cycle,207,1.3662,4,16
+56806,Cedar Bayou 4,42,Natural Gas Fired Combined Cycle,207,1.3662,4,16
+56823,Hackberry Wind Farm,HWFG1,Onshore Wind Turbine,162.3,0,1,1
+56834,High Plains,1,Onshore Wind Turbine,10,0,1,1
+56835,Ribeye Wind (11) LLC,1,Onshore Wind Turbine,10,0,1,1
+56836,T-Bone Wind (10) LLC,1,Onshore Wind Turbine,8.8,0,1,1
+56837,Tri-Tip Wind (9) LLC,1,Onshore Wind Turbine,10,0,1,1
+56838,Brisket Wind (8) LLC,1,Onshore Wind Turbine,10,0,1,1
+56839,Flat Iron Wind (7) LLC,1,Onshore Wind Turbine,10,0,1,1
+56864,Covel Gardens Gas Recovery,1,Landfill Gas,1.6,0,1,1
+56864,Covel Gardens Gas Recovery,2,Landfill Gas,1.6,0,1,1
+56864,Covel Gardens Gas Recovery,3,Landfill Gas,1.6,0,1,1
+56864,Covel Gardens Gas Recovery,4,Landfill Gas,1.6,0,1,1
+56864,Covel Gardens Gas Recovery,5,Landfill Gas,1.6,0,1,1
+56864,Covel Gardens Gas Recovery,6,Landfill Gas,1.6,0,1,1
+56905,Great Plains Windpark LLC,1,Onshore Wind Turbine,114,0,1,1
+56920,Panther Creek Wind Farm I,1,Onshore Wind Turbine,142.5,0,1,1
+56921,Panther Creek Wind Farm II,1,Onshore Wind Turbine,115.5,0,1,1
+56956,Bull Creek Wind,001,Onshore Wind Turbine,180,0,1,1
+56959,Ocotillo Windpower,OWF,Onshore Wind Turbine,58.8,0,1,1
+56961,Notrees Windpower Hybrid,BATT,Batteries,36,0,1,1
+56961,Notrees Windpower Hybrid,GE,Onshore Wind Turbine,60,0,1,1
+56961,Notrees Windpower Hybrid,VESTA,Onshore Wind Turbine,92.5,0,1,1
+56979,Panther Creek Wind Farm Three,1,Onshore Wind Turbine,199.5,0,1,1
+56981,Pyron Wind Farm LLC Hybrid,1,Onshore Wind Turbine,249,0,1,1
+56981,Pyron Wind Farm LLC Hybrid,PYRBT,Batteries,9.9,0,1,1
+56983,Papalote Creek I LLC,1,Onshore Wind Turbine,180,0,1,1
+56984,Inadale Wind Farm LLC Hybrid,1,Onshore Wind Turbine,197,0,1,1
+56984,Inadale Wind Farm LLC Hybrid,INABT,Batteries,9.9,0,1,1
+57020,Westside Landfill Gas Recovery,GEN1,Landfill Gas,1.6,0,1,1
+57020,Westside Landfill Gas Recovery,GEN2,Landfill Gas,1.6,0,1,1
+57071,Denton Power LLC,1,Landfill Gas,1.6,0,1,1
+57095,Penascal II Wind Project LLC,1,Onshore Wind Turbine,201,0,1,1
+57153,Langford Wind Power,1,Onshore Wind Turbine,150,0,1,1
+57156,Barton Chapel Wind Farm,BC,Onshore Wind Turbine,120,0,1,1
+57165,Farmers Branch Renewable Energy Facility,GEN1,Landfill Gas,1.6,0,1,1
+57165,Farmers Branch Renewable Energy Facility,GEN2,Landfill Gas,1.6,0,1,1
+57167,Mesquite Creek LFGTE Project,GEN1,Landfill Gas,1.6,0,1,1
+57167,Mesquite Creek LFGTE Project,GEN2,Landfill Gas,1.6,0,1,1
+57197,Blue Wing Solar Energy Generation,1,Solar Photovoltaic,13.5,0,1,1
+57212,Papalote Creek II LLC,1,Onshore Wind Turbine,201,0,1,1
+57260,Cedro Hill Wind LLC,1,Onshore Wind Turbine,150,0,1,1
+57263,Little Pringle I Wind Farm,LP1,Onshore Wind Turbine,10,0,1,1
+57264,Little Pringle II Wind Farm,LP2,Onshore Wind Turbine,10,0,1,1
+57303,Loraine Windpark Project LLC,LWG1,Onshore Wind Turbine,75,0,1,1
+57303,Loraine Windpark Project LLC,LWG2,Onshore Wind Turbine,75,0,1,1
+57322,Mont Belvieu Cogeneration Unit,GT01,Natural Gas Fired Combustion Turbine,15,3,1,1
+57326,Sunray Wind I,WND1,Onshore Wind Turbine,49.5,0,1,1
+57415,Sherbino II,1,Onshore Wind Turbine,145,0,1,1
+57474,Ralls Wind Farm,1,Onshore Wind Turbine,10,0,1,1
+57504,TECO CHP-1,CHP1,Natural Gas Fired Combustion Turbine,48,9.6,1,1
+57517,DeWind Frisco,FRISC,Onshore Wind Turbine,20,0,1,1
+57520,Trinity Hills,1,Onshore Wind Turbine,225,0,1,1
+57617,Hidalgo Wind Farm LLC,GEN1,Onshore Wind Turbine,250,0,1,1
+57699,Webberville Solar Project,AES1,Solar Photovoltaic,30,0,1,1
+57741,Suzlon Project VIII LLC,SP111,Onshore Wind Turbine,2.1,0,1,1
+57741,Suzlon Project VIII LLC,SP97,Onshore Wind Turbine,2.1,0,1,1
+57751,Los Vientos Wind 1A,1,Onshore Wind Turbine,200,0,1,1
+57752,Los Vientos Wind 1B,1,Onshore Wind Turbine,201.6,0,1,1
+57802,Magic Valley Wind Farm I LLC,MV1,Onshore Wind Turbine,203,0,1,1
+57865,Antelope Station,E01,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57865,Antelope Station,E02,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57865,Antelope Station,E03,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57865,Antelope Station,E04,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57865,Antelope Station,E05,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57865,Antelope Station,E06,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57865,Antelope Station,E07,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57865,Antelope Station,E08,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57865,Antelope Station,E09,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57865,Antelope Station,E10,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57865,Antelope Station,E11,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57865,Antelope Station,E12,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57865,Antelope Station,E13,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57865,Antelope Station,E14,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57865,Antelope Station,E15,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57865,Antelope Station,E16,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57865,Antelope Station,E17,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57865,Antelope Station,E18,Natural Gas Internal Combustion Engine,9.3,2.325,1,1
+57866,Golden Spread Panhandle Wnd Rch,PWR,Onshore Wind Turbine,78.2,0,1,1
+57927,Baffin Wind,1,Onshore Wind Turbine,188,0,1,1
+57952,Woodall Gas Plant,GEN1,Natural Gas Internal Combustion Engine,1,0.25,1,1
+57952,Woodall Gas Plant,GEN2,Natural Gas Internal Combustion Engine,1,0.25,1,1
+57952,Woodall Gas Plant,GEN3,Natural Gas Internal Combustion Engine,1,0.25,1,1
+57973,Spinning Spur Wind LLC,GEN1,Onshore Wind Turbine,161,0,1,1
+57974,Bobcat Bluff Wind Project LLC,GEN1,Onshore Wind Turbine,161,0,1,1
+57981,Senate Wind LLC,GEN1,Onshore Wind Turbine,150,0,1,1
+57983,Stephens Ranch Wind Energy LLC,1,Onshore Wind Turbine,211,0,1,1
+57983,Stephens Ranch Wind Energy LLC,2,Onshore Wind Turbine,165,0,1,1
+58000,"Anacacho Wind Farm, LLC",ANA,Onshore Wind Turbine,99.8,0,1,1
+58001,Panda Temple Power Station,CTG-1,Natural Gas Fired Combined Cycle,230,1.518,4,16
+58001,Panda Temple Power Station,CTG-2,Natural Gas Fired Combined Cycle,230,1.518,4,16
+58001,Panda Temple Power Station,CTG-3,Natural Gas Fired Combined Cycle,230,1.518,4,16
+58001,Panda Temple Power Station,CTG-4,Natural Gas Fired Combined Cycle,230,1.518,4,16
+58001,Panda Temple Power Station,STG-1,Natural Gas Fired Combined Cycle,326,2.1516,4,16
+58001,Panda Temple Power Station,STG-2,Natural Gas Fired Combined Cycle,326,2.1516,4,16
+58005,Panda Sherman Power Station,CTG-1,Natural Gas Fired Combined Cycle,223,1.4718,4,16
+58005,Panda Sherman Power Station,CTG-2,Natural Gas Fired Combined Cycle,220,1.452,4,16
+58005,Panda Sherman Power Station,STG-1,Natural Gas Fired Combined Cycle,312,2.0592,4,16
+58009,SunE CPS3 LLC,1,Solar Photovoltaic,5.6,0,1,1
+58009,SunE CPS3 LLC,2,Solar Photovoltaic,5,0,1,1
+58013,IKEA Round Rock 027,PV,Solar Photovoltaic,1.3,0,1,1
+58021,Whitetail,1,Onshore Wind Turbine,91.2,0,1,1
+58027,SunE CPS2 LLC,1,Solar Photovoltaic,9.9,0,1,1
+58048,BayWa r.e Mozart LLC,1,Onshore Wind Turbine,30,0,1,1
+58068,SunE CPS1 LLC,1,Solar Photovoltaic,9.9,0,1,1
+58069,PRSI FCC Generator,55M1,Petroleum Coke,3,0,1,1
+58080,Wolf Ridge Wind,1,Onshore Wind Turbine,112.5,0,1,1
+58151,Central Utility Plant - Texas A&M,GTG01,Natural Gas Fired Combined Cycle,34.1,0.22506,4,16
+58151,Central Utility Plant - Texas A&M,STG02,Natural Gas Fired Combined Cycle,11,0.0726,4,16
+58151,Central Utility Plant - Texas A&M,STG04,Natural Gas Fired Combined Cycle,5,0.033,4,16
+58162,Cirrus Wind 1 LLC,CW,Onshore Wind Turbine,61.2,0,1,1
+58242,Pattern Panhandle Wind LLC,1,Onshore Wind Turbine,218,0,1,1
+58321,Goldthwaite Wind Energy Facility,1,Onshore Wind Turbine,150,0,1,1
+58363,Majestic II Wind,WND1,Onshore Wind Turbine,79.6,0,1,1
+58372,Blue Summit Wind LLC,GEN1,Onshore Wind Turbine,135.4,0,1,1
+58378,W.A. Parish Carbon Capture Plant,GT2,Natural Gas Fired Combustion Turbine,81,16.2,1,1
+58404,Pantex,1,Onshore Wind Turbine,11.5,0,1,1
+58424,Harbor Wind LLC,1,Onshore Wind Turbine,9,0,1,1
+58471,Ector County Energy Center,CTG1,Natural Gas Fired Combustion Turbine,168,33.6,1,1
+58471,Ector County Energy Center,CTG2,Natural Gas Fired Combustion Turbine,168,33.6,1,1
+58488,"Bryan Solar, LLC",1,Solar Photovoltaic,10,0,1,1
+58537,OCI Alamo Solar I Hybrid,1,Solar Photovoltaic,40.7,0,1,1
+58537,OCI Alamo Solar I Hybrid,ASTRO,Batteries,1,0,1,1
+58562,Montana Power Station,GT-1,Natural Gas Fired Combustion Turbine,93,18.6,1,1
+58562,Montana Power Station,GT-2,Natural Gas Fired Combustion Turbine,93,18.6,1,1
+58562,Montana Power Station,GT-3,Natural Gas Fired Combustion Turbine,93,18.6,1,1
+58562,Montana Power Station,GT-4,Natural Gas Fired Combustion Turbine,93,18.6,1,1
+58596,"Grandview Wind Farm, LLC",GRVWI,Onshore Wind Turbine,211.2,0,1,1
+58614,Patriot Wind Farm,PAT1,Onshore Wind Turbine,226.1,0,1,1
+58681,Route 66 Wind Plant,RT661,Onshore Wind Turbine,150,0,1,1
+58710,Barilla Solar,BRLA,Solar Photovoltaic,30.2,0,1,1
+58716,"OCI Alamo 2, LLC",1,Solar Photovoltaic,4.4,0,1,1
+58717,"OCI Alamo 4, LLC",1,Solar Photovoltaic,39.6,0,1,1
+58720,Pattern Panhandle Wind 2 LLC,1,Onshore Wind Turbine,181.7,0,1,1
+58765,Miami Wind Energy Center,1,Onshore Wind Turbine,288.6,0,1,1
+58766,Wake Wind Energy Center,1,Onshore Wind Turbine,257,0,1,1
+58772,Longhorn Wind,GEN1,Onshore Wind Turbine,200,0,1,1
+58773,TX Hereford Wind,GEN1,Onshore Wind Turbine,200,0,1,1
+58774,Spinning Spur Wind II,GEN1,Onshore Wind Turbine,161,0,1,1
+58775,Spinning Spur Wind III,GEN1,Onshore Wind Turbine,194,0,1,1
+58835,Elk Station,ELK1,Natural Gas Fired Combustion Turbine,202,40.4,1,1
+58835,Elk Station,ELK2,Natural Gas Fired Combustion Turbine,202,40.4,1,1
+58835,Elk Station,ELK3,Natural Gas Fired Combustion Turbine,202,40.4,1,1
+58838,Keechi Wind,KW1,Onshore Wind Turbine,110,0,1,1
+58870,Rentech Nitrogen Pasadena Cogeneration,MG202,All Other,14.2,0,1,1
+58944,Woodville Renewable Power Project,G1,Wood/Wood Waste Biomass,46.5,0,1,1
+58946,Ameresco Dallas LLC,ENG1,Landfill Gas,1.4,0,1,1
+58946,Ameresco Dallas LLC,ENG2,Landfill Gas,1.4,0,1,1
+58946,Ameresco Dallas LLC,ENG3,Landfill Gas,1.4,0,1,1
+59005,Mariah del Norte,MAR1,Onshore Wind Turbine,230.4,0,1,1
+59034,Shannon Wind,SHAN1,Onshore Wind Turbine,204,0,1,1
+59063,Stella Wind Farm,WT1,Onshore Wind Turbine,201,0,1,1
+59066,Bruennings Breeze Wind Farm,MVII,Onshore Wind Turbine,228,0,1,1
+59068,"Colbeck's Corner, LLC",GVII,Onshore Wind Turbine,200,0,1,1
+59118,Cameron Wind 1 LLC,CAM1,Onshore Wind Turbine,165,0,1,1
+59145,Freeport LP Pretreatment Facility,65GTG,Natural Gas Fired Combustion Turbine,87,17.4,1,1
+59193,Chapman Ranch Wind I,CHA1,Onshore Wind Turbine,249,0,1,1
+59204,OCI Alamo 3 LLC,OCIA3,Solar Photovoltaic,5.5,0,1,1
+59205,OCI Alamo 5 LLC,OCIA5,Solar Photovoltaic,100,0,1,1
+59206,Alamo 6,OCIA6,Solar Photovoltaic,116,0,1,1
+59207,OCI Alamo 7 LLC,OCIA7,Solar Photovoltaic,100,0,1,1
+59238,Windthorst-2,WND2,Onshore Wind Turbine,67.6,0,1,1
+59244,Lorenzo Wind,FIBE1,Onshore Wind Turbine,80,0,1,1
+59245,Fluvanna,FLUV1,Onshore Wind Turbine,155.4,0,1,1
+59247,Hale Community Wind Farm,HALE1,Onshore Wind Turbine,478,0,1,1
+59320,Los Vientos Windpower III,GEN1,Onshore Wind Turbine,200,0,1,1
+59321,Los Vientos Windpower IV,GEN1,Onshore Wind Turbine,200,0,1,1
+59332,Mesquite Creek Wind,MSCRK,Onshore Wind Turbine,211.2,0,1,1
+59381,"The Methodist Hospital, Gas Turbine",GT-1,Natural Gas Fired Combustion Turbine,4,0.8,1,1
+59384,South Plains Wind Phase I,1,Onshore Wind Turbine,200,0,1,1
+59391,Red Gate Power Plant,ENG01,Natural Gas Internal Combustion Engine,18.3,4.575,1,1
+59391,Red Gate Power Plant,ENG02,Natural Gas Internal Combustion Engine,18.3,4.575,1,1
+59391,Red Gate Power Plant,ENG03,Natural Gas Internal Combustion Engine,18.3,4.575,1,1
+59391,Red Gate Power Plant,ENG04,Natural Gas Internal Combustion Engine,18.3,4.575,1,1
+59391,Red Gate Power Plant,ENG05,Natural Gas Internal Combustion Engine,18.3,4.575,1,1
+59391,Red Gate Power Plant,ENG06,Natural Gas Internal Combustion Engine,18.3,4.575,1,1
+59391,Red Gate Power Plant,ENG07,Natural Gas Internal Combustion Engine,18.3,4.575,1,1
+59391,Red Gate Power Plant,ENG08,Natural Gas Internal Combustion Engine,18.3,4.575,1,1
+59391,Red Gate Power Plant,ENG09,Natural Gas Internal Combustion Engine,18.3,4.575,1,1
+59391,Red Gate Power Plant,ENG10,Natural Gas Internal Combustion Engine,18.3,4.575,1,1
+59391,Red Gate Power Plant,ENG11,Natural Gas Internal Combustion Engine,18.3,4.575,1,1
+59391,Red Gate Power Plant,ENG12,Natural Gas Internal Combustion Engine,18.3,4.575,1,1
+59407,Newman Solar,NEW1,Solar Photovoltaic,10.3,0,1,1
+59417,Pleasant Hill Wind Energy Project,WT1,Onshore Wind Turbine,20,0,1,1
+59442,Logans Gap Wind LLC,1,Onshore Wind Turbine,200.1,0,1,1
+59475,Palo Duro Wind,GE1.7,Onshore Wind Turbine,249.9,0,1,1
+59621,TX Jumbo Road Wind,JRWND,Onshore Wind Turbine,299.7,0,1,1
+59649,Nelson Gardens Landfill Gas to Energy,UNIT1,Landfill Gas,1.1,0,1,1
+59649,Nelson Gardens Landfill Gas to Energy,UNIT2,Landfill Gas,1.1,0,1,1
+59649,Nelson Gardens Landfill Gas to Energy,UNIT3,Landfill Gas,1.1,0,1,1
+59649,Nelson Gardens Landfill Gas to Energy,UNIT4,Landfill Gas,1.1,0,1,1
+59654,Sendero,1,Onshore Wind Turbine,78,0,1,1
+59712,"San Roman Wind I, LLC",SRWI,Onshore Wind Turbine,95.3,0,1,1
+59732,Green Pastures Wind I,GPI,Onshore Wind Turbine,150,0,1,1
+59733,Green Pastures Wind II,GPII,Onshore Wind Turbine,150,0,1,1
+59734,Briscoe Wind Farm,BFW,Onshore Wind Turbine,150,0,1,1
+59812,Wolf Hollow II,CGT4,Natural Gas Fired Combined Cycle,353.3,2.33178,4,16
+59812,Wolf Hollow II,CGT5,Natural Gas Fired Combined Cycle,354.6,2.34036,4,16
+59812,Wolf Hollow II,STG6,Natural Gas Fired Combined Cycle,485.1,3.20166,4,16
+59938,Sky Global Power One,UNIT1,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+59938,Sky Global Power One,UNIT2,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+59938,Sky Global Power One,UNIT3,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+59938,Sky Global Power One,UNIT4,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+59938,Sky Global Power One,UNIT5,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+59938,Sky Global Power One,UNIT6,Natural Gas Internal Combustion Engine,8.4,2.1,1,1
+59943,Rattlesnake Den,1,Onshore Wind Turbine,207.2,0,1,1
+59972,Bearkat,BRKAT,Onshore Wind Turbine,196.7,0,1,1
+59994,RE Roserock,ROSEK,Solar Photovoltaic,157.5,0,1,1
+60044,Buckthorn Westex,BKTH1,Solar Photovoltaic,202,0,1,1
+60059,Los Vientos V Wind Power,1,Onshore Wind Turbine,110,0,1,1
+60087,South Plains II,SPII,Onshore Wind Turbine,300,0,1,1
+60104,"Javelina Wind Energy, LLC",GEWTG,Onshore Wind Turbine,249.7,0,1,1
+60122,Colorado Bend II,CT7,Natural Gas Fired Combined Cycle,361,2.3826,4,16
+60122,Colorado Bend II,CT8,Natural Gas Fired Combined Cycle,357.9,2.36214,4,16
+60122,Colorado Bend II,STG9,Natural Gas Fired Combined Cycle,492.9,3.25314,4,16
+60123,Castle Gap Solar Hybrid,BAT1,Batteries,9.9,0,1,1
+60123,Castle Gap Solar Hybrid,CGAP,Solar Photovoltaic,180,0,1,1
+60210,Cotton Plains Wind Farm,CPWF,Onshore Wind Turbine,50.4,0,1,1
+60217,Rocksprings,RKSP,Onshore Wind Turbine,149.3,0,1,1
+60264,Bacliff,BCGT1,Natural Gas Fired Combustion Turbine,54,10.8,1,1
+60264,Bacliff,BCGT2,Natural Gas Fired Combustion Turbine,60,12,1,1
+60264,Bacliff,BCGT3,Natural Gas Fired Combustion Turbine,60,12,1,1
+60264,Bacliff,BCGT4,Natural Gas Fired Combustion Turbine,60,12,1,1
+60264,Bacliff,BCGT5,Natural Gas Fired Combustion Turbine,60,12,1,1
+60264,Bacliff,BCGT6,Natural Gas Fired Combustion Turbine,60,12,1,1
+60270,Blue Cloud Wind Energy LLC,WT1,Onshore Wind Turbine,148.4,0,1,1
+60300,Montana Solar Facility,IMPV1,Solar Photovoltaic,3,0,1,1
+60338,Electra Wind Farm,EWF,Onshore Wind Turbine,230,0,1,1
+60339,Horse Creek Wind Farm,HCWF,Onshore Wind Turbine,230,0,1,1
+60366,Old Settler Wind,OSWF,Onshore Wind Turbine,151.2,0,1,1
+60372,Lamesa Solar,LSPV1,Solar Photovoltaic,100,0,1,1
+60414,Bethel Wind Farm LLC,GEN1,Onshore Wind Turbine,276,0,1,1
+60427,CoServ Community Solar Station,CSS1,Solar Photovoltaic,2,0,1,1
+60436,East Pecos Solar,1,Solar Photovoltaic,118.5,0,1,1
+60459,Port Comfort Power LLC,PC1,Natural Gas Fired Combustion Turbine,45,9,1,1
+60459,Port Comfort Power LLC,PC2,Natural Gas Fired Combustion Turbine,45,9,1,1
+60460,Chamon Power LLC,CH1,Natural Gas Fired Combustion Turbine,45,9,1,1
+60460,Chamon Power LLC,CH2,Natural Gas Fired Combustion Turbine,45,9,1,1
+60468,Friendswood Energy,GT-1,Natural Gas Fired Combustion Turbine,119,23.8,1,1
+60472,CPS 1 Community Solar,CPS1,Solar Photovoltaic,1,0,1,1
+60502,"Tyler Bluff Wind Project, LLC",GEN1,Onshore Wind Turbine,125,0,1,1
+60506,ETT Presidio NaS Battery,BOB,Batteries,4,0,1,1
+60581,Upton County Solar,UCTX,Solar Photovoltaic,150,0,1,1
+60645,"Javelina Wind Energy II, LLC",WJ21,Onshore Wind Turbine,200,0,1,1
+60657,"Salt Fork Wind Project, LLC",GEN1,Onshore Wind Turbine,174,0,1,1
+60682,Pearl Solar,PEARL,Solar Photovoltaic,50,0,1,1
+60690,"Blue Summit Storage, LLC",WBSS,Batteries,30,0,1,1
+60743,"Rattlesnake Power, LLC",WT1,Onshore Wind Turbine,160,0,1,1
+60774,Phantom Solar,GEN1,Solar Photovoltaic,15.4,0,1,1
+60789,Bluebell Solar,UNIT1,Solar Photovoltaic,30,0,1,1
+60856,Astra Wind Farm,ASTRA,Onshore Wind Turbine,163,0,1,1
+60901,Willow Springs Wind Farm,WSPWF,Onshore Wind Turbine,250,0,1,1
+60902,Dermott Wind,DERM,Onshore Wind Turbine,253,0,1,1
+60983,Buckthorn Wind Project,BWIND,Onshore Wind Turbine,100.5,0,1,1
+60987,Santa Rita Wind Energy,GEN1,Onshore Wind Turbine,300,0,1,1
+60989,SolaireHolman Solar Project,PV1,Solar Photovoltaic,50,0,1,1
+61001,Cactus Flats Wind Energy Project,WT1,Onshore Wind Turbine,150,0,1,1
+61205,Bandera Electric Coop PV,PV1,Solar Photovoltaic,1.5,0,1,1
+61212,Flat Top Wind I,FTWI,Onshore Wind Turbine,200,0,1,1
+61242,Victoria Port Power LLC,VP-1,Natural Gas Fired Combustion Turbine,50,10,1,1
+61242,Victoria Port Power LLC,VP-2,Natural Gas Fired Combustion Turbine,50,10,1,1
+61309,IKEA Grand Prairie Rooftop PV System,PV1,Solar Photovoltaic,0.7,0,1,1
+61343,Karankawa Wind LLC,WT1,Onshore Wind Turbine,307.1,0,1,1
+61355,Arlington Outlet Hydroelectric Generator,HY1,Conventional Hydroelectric,1.3,0,1,1
+61362,NRG Elbow Creek Energy Storage Project,ECBS,Batteries,2,0,1,1
+61368,Midway Solar - TX,PV1,Solar Photovoltaic,182,0,1,1
+61370,Walnut Springs Solar,GEN1,Solar Photovoltaic,5,0,1,1
+61402,Foard City Wind,FOARD,Onshore Wind Turbine,350.3,0,1,1
+61409,Highway 56 Solar,GEN1,Solar Photovoltaic,5.3,0,1,1
+61410,Whitesboro Solar,GEN1,Solar Photovoltaic,5,0,1,1
+61411,Whitesboro Solar II,GEN1,Solar Photovoltaic,5,0,1,1
+61417,Gopher Creek Wind Farm,GCWF,Onshore Wind Turbine,158,0,1,1
+61493,E-Volve Energy Holdings LLC,SEALY,Solar Photovoltaic,1.6,0,1,1
+61513,Marlin Solar,GEN1,Solar Photovoltaic,5.3,0,1,1
+61514,North Gainesville Solar,GEN1,Solar Photovoltaic,5.2,0,1,1
+61524,Whitewright Solar,GEN1,Solar Photovoltaic,10,0,1,1
+61532,Leon Solar,GEN1,Solar Photovoltaic,10,0,1,1
+61589,UL Advanced Wind Turbine Test Facility,MT-1,Onshore Wind Turbine,0.1,0,1,1
+61589,UL Advanced Wind Turbine Test Facility,UT-1,Onshore Wind Turbine,3.4,0,1,1
+61625,West Moore Solar II,GEN1,Solar Photovoltaic,5,0,1,1
+61643,Denton Energy Center,DEC1,Natural Gas Internal Combustion Engine,18.8,4.7,1,1
+61643,Denton Energy Center,DEC10,Natural Gas Internal Combustion Engine,18.8,4.7,1,1
+61643,Denton Energy Center,DEC11,Natural Gas Internal Combustion Engine,18.8,4.7,1,1
+61643,Denton Energy Center,DEC12,Natural Gas Internal Combustion Engine,18.8,4.7,1,1
+61643,Denton Energy Center,DEC2,Natural Gas Internal Combustion Engine,18.8,4.7,1,1
+61643,Denton Energy Center,DEC3,Natural Gas Internal Combustion Engine,18.8,4.7,1,1
+61643,Denton Energy Center,DEC4,Natural Gas Internal Combustion Engine,18.8,4.7,1,1
+61643,Denton Energy Center,DEC5,Natural Gas Internal Combustion Engine,18.8,4.7,1,1
+61643,Denton Energy Center,DEC6,Natural Gas Internal Combustion Engine,18.8,4.7,1,1
+61643,Denton Energy Center,DEC7,Natural Gas Internal Combustion Engine,18.8,4.7,1,1
+61643,Denton Energy Center,DEC8,Natural Gas Internal Combustion Engine,18.8,4.7,1,1
+61643,Denton Energy Center,DEC9,Natural Gas Internal Combustion Engine,18.8,4.7,1,1
+61674,Wildcat Ranch Wind Project,WT,Onshore Wind Turbine,150,0,1,1
+61697,Lamesa II,IVORY,Solar Photovoltaic,50,0,1,1
+61700,PowerFin Kingsbery,PFPKB,Solar Photovoltaic,2.6,0,1,1
+61741,Kingsberry Energy Storage System,KBESS,Batteries,1.5,0,1,1
+61742,System Control Center,GEN1,Flywheels,2.5,0,1,1
+61742,System Control Center,GEN2,Flywheels,2.5,0,1,1
+61776,"Midway Wind, LLC",MIDWY,Onshore Wind Turbine,162.9,0,1,1
+61782,Live Oak Wind Project,WTGS,Onshore Wind Turbine,199.5,0,1,1
+61810,Chisum,GEN1,Solar Photovoltaic,10,0,1,1
+61848,"PYCO Industries, Inc. Wind Farm",WT1,Onshore Wind Turbine,4.4,0,1,1
+61865,"Rio Bravo Windpower, LLC",1,Onshore Wind Turbine,237.6,0,1,1
+61867,Bovine,GEN1,Solar Photovoltaic,10,0,1,1
+61868,Bronson,GEN1,Solar Photovoltaic,10,0,1,1
+61871,Sterling Solar (TX),GEN1,Solar Photovoltaic,10,0,1,1
+61872,Lampwick,GEN1,Solar Photovoltaic,7.5,0,1,1
+61873,Yellow Jacket,GEN1,Solar Photovoltaic,5,0,1,1
+61874,Eddy II,GEN1,Solar Photovoltaic,10,0,1,1
+61875,Cascade Solar (TX),GEN1,Solar Photovoltaic,10,0,1,1
+61887,Fort Bliss (DEA EPIC),DEPIC,Solar Photovoltaic,2,0,1,1
+61895,Toyota HQ Plan,TOYHQ,Solar Photovoltaic,3.5,0,1,1
+61906,Phoebe Solar,PHOEB,Solar Photovoltaic,250,0,1,1
+61921,Tahoka Wind,TAH,Onshore Wind Turbine,300,0,1,1
+61969,"Torrecillas Wind Energy, LLC",TWE,Onshore Wind Turbine,300,0,1,1
+61970,"Blue Summit II Wind, LLC",BSII,Onshore Wind Turbine,99.4,0,1,1
+62038,Santa Rita East,STRAE,Onshore Wind Turbine,302.4,0,1,1
+62152,IKEA Live Oak Rooftop PV System,570,Solar Photovoltaic,1.7,0,1,1
+62227,"Seymour Hills Wind Project, LLC",WTGS,Onshore Wind Turbine,30.2,0,1,1
+62258,Mesteno,MES,Onshore Wind Turbine,200,0,1,1
+62259,Ranchero Wind Farm LLC,RAN,Onshore Wind Turbine,300,0,1,1
+62356,Lockett Windfarm,LOC,Onshore Wind Turbine,183.8,0,1,1
+62415,West of the Pecos Solar,WOTP1,Solar Photovoltaic,100,0,1,1
+62448,Lapetus,LAP,Solar Photovoltaic,100,0,1,1
+62566,Blue Summit III Wind,BS3,Onshore Wind Turbine,200.2,0,1,1
+62609,Commerce ESS,BA1,Batteries,10,0,1,1
+62610,Commerce Solar,PV1,Solar Photovoltaic,5,0,1,1
+62642,GE-Lubbock,GE-P2,Onshore Wind Turbine,3,0,1,1
+62642,GE-Lubbock,GE-P3,Onshore Wind Turbine,3.1,0,1,1
+62762,NASA Johnson Space Center CHP,CTG-1,Natural Gas Fired Combustion Turbine,5.7,1.14,1,1
+62762,NASA Johnson Space Center CHP,CTG-2,Natural Gas Fired Combustion Turbine,5.7,1.14,1,1
+62953,Griffin Solar,1080,Solar Photovoltaic,5,0,1,1
+63027,Mars Solar,20,Solar Photovoltaic,10,0,1,1
+63030,"Canadian Breaks, LLC",CBRKS,Onshore Wind Turbine,210.1,0,1,1
+63180,"TPE Whitney Solar, LLC",TXWHT,Solar Photovoltaic,9.9,0,1,1
