@@ -1,0 +1,21 @@
+﻿site_ids,AC_capacity_MW,latitude,longitude,elevation,timezone,proposed,Zone,ISO,Plant ID,Generator ID,Distribution Factor
+solar364,7.5,28.53,-96.82,1.95,-6,Existing,Coast,ERCOT,61875,GEN1,1
+solar365,4.4,28.53,-96.82,1.95,-6,Existing,Coast,ERCOT,61875,GEN1,1
+solar362,29.1,28.57,-96.82,12.36,-6,Existing,Coast,ERCOT,61875,GEN1,1
+solar363,7.5,28.57,-96.82,12.36,-6,Existing,Coast,ERCOT,61875,GEN1,1
+solar109,29.7,29.33,-100.38,377.1,-6,Existing,West,ERCOT,58717,1,1
+solar3,10,29.57,-104.3,832.75,-6,Existing,Far West,ERCOT,58488,1,1
+solar433,7.5,29.73,-94.98,6.95,-6,Existing,Coast,ERCOT,61868,GEN1,1
+solar434,21.22,29.73,-94.98,6.95,-6,Existing,Coast,ERCOT,61868,GEN1,1
+solar435,21.22,29.73,-94.98,6.95,-6,Existing,Coast,ERCOT,61868,GEN1,1
+solar436,21.22,29.73,-94.98,6.95,-6,Existing,Coast,ERCOT,61868,GEN1,1
+solar437,21.22,29.73,-94.98,6.95,-6,Existing,Coast,ERCOT,61868,GEN1,1
+solar438,42.45,29.73,-94.98,6.95,-6,Existing,Coast,ERCOT,61868,GEN1,1
+solar288,5.5,30.53,-97.7,234.5,-6,Existing,South Central,ERCOT,58013,PV,1
+solar289,7.95,30.53,-97.7,234.5,-6,Existing,South Central,ERCOT,58013,PV,1
+solar290,10.42,30.53,-97.7,234.5,-6,Existing,South Central,ERCOT,58013,PV,1
+solar291,30.52,30.53,-97.7,234.5,-6,Existing,South Central,ERCOT,58013,PV,1
+solar286,1.05,30.57,-97.7,249.65,-6,Existing,South Central,ERCOT,58013,PV,1
+solar287,22.5,30.57,-97.7,249.65,-6,Existing,South Central,ERCOT,58013,PV,1
+solar21,1.5,32.25,-101.42,740.6,-6,Existing,Far West,ERCOT,61697,IVORY,1
+solar22,230,32.25,-101.42,740.6,-6,Existing,Far West,ERCOT,60372,LSPV1,1
